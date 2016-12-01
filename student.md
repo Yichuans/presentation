@@ -16,12 +16,12 @@ World Conservation Monitoring Centre
 
 (UNEP-WCMC)
 
-Note: 35 yrs +, Cambridge
+Note: 35 yrs +, Cambridge, 100+, biologist, computer scientist, economist, GIS professionals, programmers
 
 
 ## To put biodiversity at the heart of decision-making
 <!-- .slide: data-background="wcmc-1.jpg" -->
-Note: question: what's biodiversity + answer; biodiversity arm of UNEP, most to do biodiv conservation
+Note: biodiversity arm of UNEP, most to do biodiv conservation; question: what's biodiversity + answer; 
 
 
 ## Unlock the power of data
@@ -116,7 +116,7 @@ Support IUCN (International Union for Conservation of Nature) on biodiversity si
 - Evaluation of new natural and mixed nominations  <!-- .element: class="fragment"-->
 - Monitoring of existing sites  <!-- .element: class="fragment"-->
 - Policy, guidance and research <!-- .element: class="fragment"-->
-
+Note: question: what is it we do - well...
 
 
 <!--============== evaluation -->
@@ -133,17 +133,21 @@ Support IUCN (International Union for Conservation of Nature) on biodiversity si
 <!-- .slide: data-background="pp.png" -->
 <a target='_blank' href='http://www.protectedplanet.net'>protected planet</a>
 <!-- only way to allow new page -->
+Note: much of the evaluation we do rely on it. DEMO
 
 
 ### Comparative Analysis
 
 For biodiversity nominations
 
+Note: unbiased, impartial, independent expert assessment. Data driven, literature...
+
 
 ### Online prototype for spatial screening
 <!-- .slide: data-background="ca.png" -->
 <a target='_blank' href='http://whca.noip.me'>comparative analysis</a>
 
+Note: enable others to look at nomination, costly process
 
 
 <!--============== monitoring -->
@@ -152,13 +156,16 @@ For biodiversity nominations
 
 
 ### Statutory process
+Note: periodic reporting (6 years), SOC report, reactive/reinforced monitoring/missions, danger listing, and ultimately de-list
 
 
 ### We need to be proactive
+Note: often slow to react, often too late
 
 
 ### world heritage outlook
 Example: <a target='_blank' href='http://www.worldheritageoutlook.iucn.org/search-sites/-/wdpaid/en/2571'>The Great Barrier Reef</a>
+Note: IUCN initaitive to pro-active, identify issues before major, effective mitigation measures
 
 
 <!-- .slide: data-background-image="who.jpg" -->
