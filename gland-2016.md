@@ -1,8 +1,8 @@
 <!--============ intro -->
 # welcome
-<!-- .slide: data-background="/gland_assets/cambridge.jpg" -->
+<!-- .slide: data-background="./gland_assets/cambridge.jpg" -->
 note: A) introduce myself. maintain GIS; geospatial support to three folds of work <br>
-B) purpose to report back: ideas and work progress; to also hear from you your opinions 1) what works, what doesn't 2) where my work should be heading 3) the means to achieve that
+B) report work progress, share ideas, most important hear from you your opinions 1) what works, what doesn't 2) where my work should be heading 3) the means to achieve that
 
 
 # knowledge lab
@@ -11,7 +11,7 @@ B) purpose to report back: ideas and work progress; to also hear from you your o
 <i class="fa fa-question fa-5x"></i>
 ## why
 
-## it's about the impact
+## theory of change
 <!-- .element: class="adj-icon" -->
 <br>
 <span class="fragment"><i class="fa fa-map-o fa-2x"></i></span>
@@ -19,12 +19,12 @@ B) purpose to report back: ideas and work progress; to also hear from you your o
 <i class="fa fa-smile-o fa-2x"></i></span>
 <span class="fragment"><i class="fa fa-long-arrow-right fa-2x"></i>
 <i class="fa fa-pagelines fa-2x"></i></span>
-note: For the past two years, I have been putting a lot of thoughts and I keep asking myself what is it that we want to achieve at the end of the day: at least for my work, I want to create a best possible analysis/report, and I want people use them, and influence policy and change behaviour, ultimately to better conserve the planets’ most outstanding places.
+note: For the past two years, I have been putting a lot of thoughts and I keep asking myself what is it that we want to achieve at the end of the day: I want to create a best possible analysis/report, and I want people use them, and influence policy and change behaviour, ultimately to better conserve the planets’ most outstanding places.
 
 ## I haven't got there, yet...
 <!-- .slide: data-background="./gland_assets/dogfail.gif" -->
 
-## theory of change
+## *'theory'* of change
 <!-- .element: class="adj-icon" -->
 <br>
 <span class="fragment"><i class="fa fa-database fa-2x"></i></span>
@@ -32,32 +32,35 @@ note: For the past two years, I have been putting a lot of thoughts and I keep a
 <i class="fa fa-book fa-2x"></i></span>
 <span class="fragment"><i class="fa fa-long-arrow-right fa-2x"></i>
 <i class="fa fa-frown-o fa-2x"></i></span>
-note: I have been privileged to have worked on a number of studies. reports. Great works - delicately balanced, nuanced messages, excellent. knowledge products. 
+note: I have been privileged to have worked on a number of studies. reports. Great works - delicately balanced, nuanced messages, excellent. knowledge products. <br>
 a) painstakingly compile a lot of biodiversity observation data, sometimes modelled abstruse data; b) turn these data into even more abstruse scientific analysis and thick papers 3) our audience find it hard to understand and use.
-Reason: not good enough work; or just not enough packaging - making their life easier?
+why didn't achieve the impact: a) not good enough work; b) just not enough packaging - making their life easier?
 
 <i class="fa fa-flask fa-5x"></i>
 ## what
 
 ## bridge the gap
 between generation and uptake of knowledge products
-note: KL is what I hope will be initiative, the vehicle to carry that thinking and implement it - to bridge the gap or better facilitate between production of knowledge products and their consumption, in order be more impactful. Though a chance still only gets used when convenient.
-I want a shift of delivering such analytical work to a) easy to access and understand b) more public facing 
+note: a) KL is what I hope will be initiative, the vehicle to carry that thinking and address the problems <br>
+b) to bridge the gap or better facilitate between production of knowledge products and their consumption - in order be more impactful. Though a chance still only gets used when convenient. <br>
+c) I want a shift of delivering such analytical work to 1) easy to access and understand 2) more public facing, communication oriented
 
 ## promote the use of web
 in communicating analytics and digital tools
 note: 
-A: fundamentally there is too much information and too little time - if I, as an author, can’t be bothered to read my own work of 70 pages. I find it powerless to convince other people to read. <br>
-B: People are busy, swamped by information around them, spoiled by the influx of wealth of information, some beautifully packed, some not so. I guess my work belongs to the latter.communication. reports and five minutes attention span <br>
-C: to better reach audience by tapping into opportunities it offers 1. direct and ubiquitous access with internet 2. interactive and engaging 3. dynamic and agile, i.e., quick to modify and improve
+a) to better reach audience by tapping into opportunities it offers 1. direct and ubiquitous access with internet 2. interactive and engaging 3. dynamic and agile, i.e., quick to modify and improve <br>
+b) reports are less appealing, if I, as an author, can’t be bothered to read my own work of 70 pages. I find it powerless to convince other people to read. <br>
+c) five minutes attention span. fundamentally there is too much information and too little time - People are busy, swamped by information around them, spoiled by the influx of wealth of information.
+
+## central hub
+for all digital products in the making
+note: 1) physical manifestation. <br> 
+2) single entry point for all products, making it easier to navigate <br>
+3) initially all MAVA deliverables under activity 1.2 but could be a common place for any work-in progress digital products in the future
 
 ## collect ideas
 for improvement and future development
 note: a step at a time. incremental improvement (as opposed to disruptive innovation), needs directions. Platform to gather feedbacks and solicit good ideas.
-
-## central hub
-for all digital products in the making
-note: 1) physical manifestation. <br> 2) initially all MAVA deliverables under activity 1.2 but could be a common place for any work-in progress digital products in the future
 
 <i class="fa fa-cogs fa-5x"></i>
 ## how
@@ -67,20 +70,22 @@ note: design principles; KL itself but also for each knowledge product in the la
 (and do less!)
 <!-- .element: class="fragment" -->
 note: 1. it is not rocket science, nor even research we do - risk losing out of touch - no need to be complicated and full of jargons. <br>
-2. concious of limited resources; one thing at a time, set ambitious goals but with achievable low aims
+2. it is about what we do; but also about what we don't do -> concious of resource. a) Don't reinvent wheel. b) Do less but do it very well.
+3. concious of limited resources; one thing at a time, set ambitious goals but with achievable low aims
 
-## extendible
-and scalable
+## extendible and scalable
+link, provide services, and extend beyond WH
 note: with future extendibility in mind. <br>
-1. connection to existing more established KP <br> 
-2. easily extendible to have additional functionality. modern architecture - web services <br>
+1. intrinsically not in isolation - imperative connection to existing more established KP <br> 
+2. easily extendible to have additional functionality. modern architecture, web services <br>
 3. WH trailblazing, but equally could be scaled up to other protected areas
 
 ## open
 Data, methodology and result
-note: open data, open technology and open accessibility. Source code, analytics reproducible.
-1. certainly external pressure to be open, because many are open; but not pressed <br>
-2. I think we also prefer open to a black box approach; a) transparency. Open them up, allow comments, have a debate and then come up with a better solution and outcome. Information, per se, should not be held back.
+note: open data, open technology and open accessibility. Source code, analytics reproducible. empower others.
+1. certainly external pressure to be open, because many are open <br>
+2. personal view that data etc should not be held back. <br>
+3. benefits from transparency: allow comments, healthy debate that leads to better ideas, solution and outcome. 2) empower others
 
 ## responsive
 any device
@@ -117,6 +122,7 @@ note:
 2. aggregate all species CCV results within WH <br>
 3. Are species most vulnerable outside WH or inside <br>
 4. to what extent do WH provides refugee, high number of ccv species, management responses
+5. monitoring work. What are the sites that are ccv? in those sites, what are the species that are ccv? What traits leads to their ccv status? What management response could be? delineation based on future extent of such species?
 
 ## demo
 <!-- .slide: data-background="#3b5998" -->
@@ -142,8 +148,7 @@ note: what we did - calculate pixel by pixel change within each WH site
 ## new perspective for screening potential threats
 <!-- .slide: data-background="OliveDrab" -->
 note: validation required. it tells you what but not why - another source of potential threats. <br>
-1. forest loss (large scale) <br> 
-2. water body
+1. example, WHO assessment. Could refer to the LCC for any substantial change, if so, this signals an alert, if otherwise unknown, a possible damaging event. forest loss, water body change, amongst others.
 
 ## demo
 <!-- .slide: data-background="OliveDrab" -->
@@ -165,7 +170,8 @@ note: archiving, no longer relevant -> no need to host data in house while it's 
 ## What do they look like... *NOW*?
 <!-- .slide: data-background="#A45209" -->
 note: move away from the original goal, frees time for more interest work
-Time series data, finds the best image (cloud free) in any past given time range. composition of spectra.
+1) Time series data, finds the best image (cloud free) in any past given time range. composition of spectra. <br>
+2) already an idea or on information that is reported, photographic proof if there is any supporting evidence from remote sensing
 
 <iframe  width="1080" height="600" data-src="https://www.mapbox.com/bites/00114/" frameborder="0"></iframe>
 <!-- .slide: data-background="#A45209" -->
@@ -174,6 +180,8 @@ note: cloud, web services: data is on the internet and can be easily accessed an
 ## future beyond pretty pictures
 <!-- .slide: data-background="#A45209" -->
 note: as it stands only visuals - immense opportunity and potential to better visualise but also analyse in the cloud.
+1) change of NDVI, vegetation index overtime <br>
+2) give you land cover classification on the fly, dynamically (GEE) - tell you also what they are and how they change
 
 ## demo
 <!-- .slide: data-background="#A45209" -->
@@ -246,7 +254,7 @@ note: synonyms;
 ## technology is fast evolving
 <!-- .slide: data-background="#1B5E20" -->
 note: 
-1. All parts of GIS in the cloud <br>
+All parts of GIS in the cloud <br>
 amazing speed of evolution. e.g. GIS: storage, analysis, presentation of geographic information -> in the cloud, accessible, and dead simple. e.g. irrelevance of my initial effort to archive Landsat 8 data in house.
 disruptive innovation may drive some of work obsolete.
 
@@ -256,7 +264,7 @@ disruptive innovation may drive some of work obsolete.
 note: 
 1. naturally leading to need to catch up <br>
 2. training to catch up: cloud based computing <br>
-3. harness the power or risk being made irrelevance in the not-too-distant future.
+3. harness the power or work risk being made irrelevance in the not-too-distant future.
 
 <i class="fa fa-dollar fa-5x"></i>
 ## resource
@@ -266,7 +274,7 @@ note:
 2. missed opportunity to make even bigger impact. Split between doing the work, WHO: compile expert knowledge <-> delivering the message to the end users. <br>
 3. never a one-off effort, maintenance, honing. <br>
 4. good understanding of resource requirements for creating good products that are robust and long term sustainable, e.g. WHO. scope large, functional, but to do it properly, need more resources. 
-5. code not developed well, design is , CMS a mess, and not responsive.
+5. code not developed well, design is, CMS a mess, and not responsive.
 
 <i class="fa fa-child fa-5x"></i>
 ## user buy-in
@@ -275,8 +283,9 @@ note: ultimately it is the users we want to influence, educate and modify their 
 
 <!-- .slide: data-background="#1B5E20" -->
 >"If you want to go quickly, go alone. If you want to go far, go together."
-note: end with an African proverb. I don't want to consider this as an Y project alone, but something we are all part of; as we are all  generating knowledge and communicating to our end users
-note:  and be together and go further 
+note: 
+1) end with an African proverb. I don't want to consider this as an Y project alone, but something we are all part of; as we are all generating knowledge and communicating to our end users <br>
+2) no need to be in a hurry and rush, take a moment a) think about it b) start using it c) think again d) implement. Until 2017/2018
 
 # questions
 <!-- .slide: data-background="./gland_assets/b8.jpg" -->
