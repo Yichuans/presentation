@@ -240,8 +240,8 @@ note: A prioritisation exercise where I was asked to look at the relationship be
 ## demo 
 <!-- .slide: data-background="#0072b1" -->
 - <a href='http://wcmc.io/3f3e' target='_blank'>World Heritage boundary</a>
-- <a href='http://wcmc.io/wh-ifl' target='_blank'>Intact forest analysis overlay</a>
 - <a href='http://wcmc.io/wh-story-2016' target='_blank'>2016 inscription story map</a>
+- <a href='http://unep-wcmc.maps.arcgis.com/home/webmap/viewer.html?webmap=6dcd5363945149f7997e30bc5c850273' target='_blank'>2016 Evaluation</a>
 - <a href='https://www.iucn.org/theme/world-heritage/natural-sites' target='_blank'>(Celia embedded the map on the IUCN website)</a>
 note: not web service, but the benefits of having a dedicated web interface for WH
 
