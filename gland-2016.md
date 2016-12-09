@@ -1,7 +1,7 @@
 <!--============ intro -->
 # welcome
 <!-- .slide: data-background="./gland_assets/cambridge.jpg" -->
-note: A) introduce myself. maintain GIS; geospatial support to three folds of work <br>
+note: A) always a pleasure to come, intellectually stimulating debate and learn from you wisdom <br>
 B) report work progress, share ideas, most important hear from you your opinions 1) what works, what doesn't 2) where my work should be heading 3) the means to achieve that
 
 
@@ -32,9 +32,10 @@ note: For the past two years, I have been putting a lot of thoughts and I keep a
 <i class="fa fa-book fa-2x"></i></span>
 <span class="fragment"><i class="fa fa-long-arrow-right fa-2x"></i>
 <i class="fa fa-frown-o fa-2x"></i></span>
-note: I have been privileged to have worked on a number of studies. reports. Great works - delicately balanced, nuanced messages, excellent. knowledge products. <br>
-a) painstakingly compile a lot of biodiversity observation data, sometimes modelled abstruse data; b) turn these data into even more abstruse scientific analysis and thick papers 3) our audience find it hard to understand and use.
-why didn't achieve the impact: a) not good enough work; b) just not enough packaging - making their life easier?
+note: I have the privilege to have worked on various projects contributing to IUCN's e, m, upstream <br> 
+the reality
+a) painstakingly compile a lot of biodiversity observation data, sometimes modelled abstruse data; b) turn these data into even more abstruse scientific analysis and thick papers 3) our audience find it hard to understand and use - > didn't achieve the impact: <br>
+a) not good enough work; b) just not enough packaging - making their life difficult?
 
 <i class="fa fa-flask fa-5x"></i>
 ## what
@@ -42,7 +43,7 @@ why didn't achieve the impact: a) not good enough work; b) just not enough packa
 ## bridge the gap
 between generation and uptake of knowledge products
 note: a) KL is what I hope will be initiative, the vehicle to carry that thinking and address the problems <br>
-b) to bridge the gap or better facilitate between production of knowledge products and their consumption - in order be more impactful. Though a chance still only gets used when convenient. <br>
+b) to bridge the gap or better facilitate between production of knowledge products and their consumption - in order be more impactful.<br>
 c) I want a shift of delivering such analytical work to 1) easy to access and understand 2) more public facing, communication oriented
 
 ## promote the use of web
