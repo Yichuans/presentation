@@ -1,0 +1,118 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Points contribution to area statistics</title>
+    <meta name="description" content="A framework for easily creating beautiful presentations using HTML">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <!-- icon -->
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+    <!-- font -->
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300" rel="stylesheet">
+    <link rel="stylesheet" href="css/reveal.css">
+    <link rel="stylesheet" href="css/theme/black.css">
+    <!-- Theme used for syntax highlighting of code -->
+    <link rel="stylesheet" href="lib/css/zenburn.css">
+    <style type="text/css">
+    .reveal h1 {
+        text-shadow: rgba(0, 0, 0, 0.95) 0px 0px 4px
+    }
+    
+    .reveal h1 {
+        font-family: 'Roboto', sans-serif;
+    }
+    
+    .reveal h2,
+    .reveal h3 {
+        font-family: 'Roboto', sans-serif;
+        font-weight: 200;
+        text-transform: capitalize;
+    }
+    
+    .reveal p {
+        font-family: 'Source Sans Pro', sans-serif;
+        /*font-size: 50%;*/
+    }
+    
+    .reveal img {
+        max-width: 50%;
+        height: auto;
+    }
+    /*multiple id??*/
+    #demo {
+        text-align: left;
+    }
+
+    /*any ul sibling with links */
+    #demo+ul {
+        display: block;
+        text-align: left;
+    }
+
+    /*hack for icon styling*/
+    .adj-icon+p i {
+        margin: 20px;
+    }
+
+    </style>
+</head>
+
+<body>
+    <div class="reveal">
+        <div class="slides">
+            <section data-markdown="buf_points.md" data-separator="^\n\n" data-separator-vertical="^\n" data-separator-notes="^note:" data-charset="utf-8">
+            </section>
+        </div>
+    </div>
+    <script src="lib/js/head.min.js"></script>
+    <script src="js/reveal.js"></script>
+    <script>
+    Reveal.initialize({
+        controls: true,
+        progress: true,
+        history: true,
+        center: true,
+
+        transition: 'slide',
+
+
+        // slideNumber: true,
+        // slideNumber: 'c/t'
+
+        dependencies: [{
+            src: 'lib/js/classList.js',
+            condition: function() {
+                return !document.body.classList;
+            }
+        }, {
+            src: 'plugin/markdown/marked.js',
+            condition: function() {
+                return !!document.querySelector('[data-markdown]');
+            }
+        }, {
+            src: 'plugin/markdown/markdown.js',
+            condition: function() {
+                return !!document.querySelector('[data-markdown]');
+            }
+        }, {
+            src: 'plugin/highlight/highlight.js',
+            async: true,
+            callback: function() {
+                hljs.initHighlightingOnLoad();
+            }
+        }, {
+            src: 'plugin/zoom-js/zoom.js',
+            async: true
+        }, {
+            src: 'plugin/notes/notes.js',
+            async: true
+        }]
+    });
+    </script>
+</body>
+
+</html>
