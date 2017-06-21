@@ -41,6 +41,7 @@ timer.timer(function(elapsed) {
     p.vy += 0.2 * (Math.random() - .5) - 0.01 * p.vy;
     context.beginPath();
     context.arc(p.x, p.y, radius, 0, tau);
+    context.fillStyle='#555555'
     context.fill();
   }
 
@@ -56,6 +57,7 @@ timer.timer(function(elapsed) {
         context.beginPath();
         context.moveTo(pi.x, pi.y);
         context.lineTo(pj.x, pj.y);
+        context.strokeStyle='#555555'
         context.stroke();
       }
     }

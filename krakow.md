@@ -173,8 +173,20 @@ note: refresh the page if inactive - the demo result is done in real time, no re
 
 # World Heritage information sheets
 
+## history
+
+## overhaul
+
+## demo
+
 
 # Human footprint and forest loss
+
+## paper of the month award
+
+## amplify the impact
+
+## demo
 
 
 # climate change vulnerability
@@ -218,7 +230,7 @@ note: versioned, reproducible, communication oriented. first time data analytics
 
 ## gaps and comparisons, spatially
 <!-- .slide: data-background="#8c0303" -->
-note: from a data point of view, identify where broad gaps are; if a hypothetical site is to be submitted, how does it compare to existing sites.
+note: from a data point of view, identify where broad gaps are; if a hypothetical site is to be submitted, how does it compare to existing sites. not to be prescriptive
 
 ## proof of concept
 for now
@@ -228,10 +240,11 @@ note: to replicate desktop system and make it accessible -> enable wider public 
 ## full development
 replicating full functionalities of spatial comparative analysis
 <!-- .slide: data-background="#8c0303" -->
-note: prototype done, delayed in communication due to UNESCO, full specification done and next step fund raising
-1. proper spatial analysis <br>
-2. complete datasets <br>
-3. improved user experience
+note: 1) prototype done <br>
+2) full specification done and next step fund raising, in order to
+a. proper spatial analysis <br>
+b. complete datasets <br>
+b. improved user experience
 
 ## demo
 <!-- .slide: data-background="#8c0303" -->
@@ -241,21 +254,21 @@ note: web GIS for the first time, complete system that takes input from the fron
 
 # challenges<br>&<br>opportunities
 <!-- .slide: data-background="./gland_assets/b7.jpg" -->
-note: synonyms;
+note: two sides of the same coin - synonymous;
 
 <i class="fa fa-rocket fa-5x"></i>
 ## technology is fast evolving
 <!-- .slide: data-background="#1B5E20" -->
 note: 
 All parts of GIS in the cloud <br>
-amazing speed of evolution. e.g. GIS: storage, analysis, presentation of geographic information -> in the cloud, accessible, and dead simple. e.g. irrelevance of my initial effort to archive Landsat 8 data in house.
+amazing speed of evolution. e.g. GIS: storage, analysis, presentation of geographic information -> in the cloud, accessible, and dead simple. e.g. irrelevance of initial effort to archive Landsat 8 data in house.
 disruptive innovation may drive some of work obsolete.
 
 <i class="fa fa-spin fa-gear fa-5x"></i>
 ## capacity
 <!-- .slide: data-background="#1B5E20" -->
 note: 
-1. naturally leading to need to catch up <br>
+1. natural need to catch up with the rest of the world <br>
 2. training to catch up: cloud based computing <br>
 3. harness the power or work risk being made irrelevance in the not-too-distant future.
 
@@ -263,20 +276,21 @@ note:
 ## resource
 <!-- .slide: data-background="#1B5E20" -->
 note:
-1. cost saving opportunity with performance and productivity boost. <br>
+1. no funding <br>
 2. missed opportunity to make even bigger impact. Split between doing the work, WHO: compile expert knowledge <-> delivering the message to the end users. <br>
 3. never a one-off effort, maintenance, honing. <br>
-4. good understanding of resource requirements for creating good products that are robust and long term sustainable, e.g. WHO. scope large, functional, but to do it properly, need more resources. 
-5. code not developed well, design is, CMS a mess, and not responsive.
+4. good understanding of resource requirements for creating good products that are robust and long term sustainable, e.g. WHO. scope large, functional, but to do it properly, need more resources. <br>
+5. not professional development
 
-## user buy-in
-<!-- .slide: data-background="#1B5E20" -->
-note: ultimately it is the users we want to influence, educate and modify their behaviours. Without user buy-in, it would be hard work, with little impact. That's why I am here today, advocating and trying to convince you that 1) this is indeed a good idea 2) get you on-board this journey and get your feedbacks 3) first users to start using and promoting them.
+<i class="fa fa-child fa-5x"></i>
+## your voice matters
+<!-- .slide: data-background="#1B5E20" data-background-iframe="./krakow_assets/posson.html"  -->
+note: ultimately it is the users we want to influence, educate and modify their behaviours. Without user buy-in, it would be hard work, with little impact. That's why here today, advocating and trying to convince you that 1) this is indeed a good idea 2) get you on-board this journey and get your feedbacks 3) first users to start using and promoting them.
 
 <!-- .slide: data-background="#1B5E20" -->
 >"If you want to go quickly, go alone. If you want to go far, go together."
 note: 
-1) end with an African proverb. I don't want to consider this as an Y project alone, but something we are all part of; as we are all generating knowledge and communicating to our end users <br>
+1) end with an African proverb. don't  consider this as an Y project alone, but something we are all part of; as we are all generating knowledge and communicating to our end users <br>
 2) no need to be in a hurry and rush, take a moment a) think about it b) start using it c) think again d) implement. Until 2017/2018
 
 # questions
