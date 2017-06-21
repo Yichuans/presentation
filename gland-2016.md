@@ -129,7 +129,7 @@ note:
 <!-- .slide: data-background="#3b5998" -->
 - <a href='http://nbviewer.jupyter.org/github/Yichuans/climate-vulnerable-wh/blob/master/report.ipynb' target='_blank'>Brief report</a>
 - <a href='http://nbviewer.jupyter.org/github/Yichuans/climate-vulnerable-wh/blob/master/workspace.ipynb' target='_blank'>Reproducible methodology, analysis and findings</a>
-- <a href='http://wh-app.noip.me/ccv' target='_blank'>Result for each natural and mixed World Heritage site</a>
+- <a href='http://wh-app.yichuans.me/ccv' target='_blank'>Result for each natural and mixed World Heritage site</a>
 note: versioned, reproducible, communication oriented. first time data analytics: version controlled, open, accessible, scientific product. New thinking of delivering and communicating knowledge product through means other than lengthy text
 
 
@@ -153,7 +153,7 @@ note: validation required. it tells you what but not why - another source of pot
 
 ## demo
 <!-- .slide: data-background="OliveDrab" -->
-- <a href='http://wh-app.noip.me/wh_app/landcover' target='_blank'>Land Cover change</a>
+- <a href='http://wh-app.yichuans.me/wh_app/landcover' target='_blank'>Land Cover change</a>
 note: first time comprehensive, systematic land class mapping exercise, first time investigated the dynamics of change, first time used the web as a media to deliver findings
 
 
@@ -186,7 +186,7 @@ note: as it stands only visuals - immense opportunity and potential to better vi
 
 ## demo
 <!-- .slide: data-background="#A45209" -->
-- <a href='http://wh-app.noip.me/landsat' target='_blank'>Landsat 8 for natural World Heritage</a>
+- <a href='http://wh-app.yichuans.me/landsat' target='_blank'>Landsat 8 for natural World Heritage</a>
 note: first web service based product. Dynamic in that as long as new data comes in, the maps will be automatically updated. Little or no maintenance cost.
 
 
@@ -213,7 +213,7 @@ note: prototype done, delayed in communication due to UNESCO, full specification
 
 ## demo
 <!-- .slide: data-background="#8c0303" -->
-- <a href='http://whca.noip.me' target='_blank'>Spatial comparative analysis prototype</a>
+- <a href='http://whca.yichuans.me' target='_blank'>Spatial comparative analysis prototype</a>
 note: web GIS for the first time, complete system that takes input from the frontend interface, pass onto an underlying GIS database for analysis and then return the result to the web.
 
 
