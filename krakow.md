@@ -66,7 +66,7 @@ note:
 2. mobile first design. 
 
 ## demo
-- <a href='https://world-heritage-analyses.iucn.org' target='_blank'>World Heritage Analyses</a>
+- <a href='http://world-heritage-analyses.iucn.org' target='_blank'>World Heritage Analyses</a>
 note: demo knowledge lab
 
 
@@ -161,32 +161,46 @@ note: first web service based product. Dynamic in that as long as new data comes
 <!-- .slide: data-background-iframe="./krakow_assets/spin.html" -->
 
 ## Hugely powerful
-note: geospatial parallel computing in the cloud -> near real time result
+note: 1) petabytes of data already in the cloud, at the click of a button, sno need to download to analyse <br>
+2) geospatial parallel computing in the cloud -> near real time result <br>
+3) computation on the fly, calculations done at the time you request it <br>
 
 ## Surface water transition
-note: a test that uses the google earth engine to calculate surface water change in all natural world heritage sites
+note: we ran sa test that uses the google earth engine to calculate surface water change in all natural world heritage sites
 
 ## demo
 - <a href='https://yichuans413.appspot.com' target='_blank'>Google Earth Engine for surface water transition</a>
-note: refresh the page if inactive - the demo result is done in real time, no result is pre-cooked.
+note: 1) explain global surface water <br>
+2) refresh the page if inactive - the demo result is done in real time, no result is pre-cooked.
 
 
 # World Heritage information sheets
 
 ## history
+note: 1) concise digest of nominations files, fallen out of use <br>
+2) still useful but usefulness plagued by accessibility (explain before)
 
 ## overhaul
+note: 1) a major revision was undertaken to revitalise as a source of useufl information <br>
+2) web based + search functionality
 
 ## demo
+- <a href='https://yichuans.github.io/datasheet/output' target='_blank'>Natural World Heritage information sheets</a>
+note: demo a case site + search + by country
 
 
 # Human footprint and forest loss
 
 ## paper of the month award
+note: iucn contributed a paper that uses the google earth engine to quantify human footprint change and forest loss. It won an award by elsevier out of more than 1000 journals
 
 ## amplify the impact
+note: science paper has limited reach to people. therefore a web platform to communicate site specific information to users
 
 ## demo
+- <a href='http://world-heritage-analyses.greenfirescience.com/human-footprint/' target='_blank'>Human footprint change</a>
+- <a href='http://world-heritage-analyses.greenfirescience.com/forest-loss/' target='_blank'>Forest loss</a>
+note: also attempt to get user feedbacks
 
 
 # climate change vulnerability
