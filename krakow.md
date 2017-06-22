@@ -1,5 +1,5 @@
 <!--============ intro -->
-# welcome
+# welcome1
 <!-- .slide: data-background="./krakow_assets/krakow.png" -->
 note: A) thanks for coming always <br>
 B) pleased to launch: report back work progress, share ideas <br>
