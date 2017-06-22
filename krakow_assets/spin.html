@@ -38,13 +38,13 @@ d3.json("./globe_110m.json", function(error, world) {
     projection.rotate([velocity * elapsed, 0]);
     context.beginPath();
     path(land);
-    context.fillStyle='#00728F'
+    context.fillStyle='#295A10'
     context.fill();
 
     context.beginPath();
     context.arc(width / 2, height / 2, radius, 0, 2 * Math.PI, true);
     context.lineWidth = 2.5;
-    context.strokeStyle="#00728F"
+    context.strokeStyle="#295A10"
     context.stroke();
   });
 });

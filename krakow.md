@@ -1,6 +1,8 @@
 <!--============ intro -->
 # welcome
 <!-- .slide: data-background="./krakow_assets/krakow.png" -->
+<br>
+<small>Yichuan Shi, Matea Osti and Elise Belle</small>
 note: A) thanks for coming always <br>
 B) pleased to launch: report back work progress, share ideas <br>
 C) most importantly hear from your opinions 1) what works, what doesn't 2) where work should be heading 3) the means to achieve that
@@ -66,7 +68,7 @@ note:
 2. mobile first design. 
 
 ## demo
-- <a href='http://world-heritage-analyses.iucn.org' target='_blank'>World Heritage Analyses</a>
+- <a href='http://world-heritage-analyses.iucn.org' target='_blank'>http://world-heritage-analyses.iucn.org</a>
 note: demo knowledge lab
 
 
@@ -175,29 +177,38 @@ note: 1) explain global surface water <br>
 
 
 # World Heritage information sheets
+<!-- .slide: data-background="#595C5F" -->
+note: <strong>Elise to take over</strong>
 
 ## history
+<!-- .slide: data-background="#595C5F" -->
 note: 1) concise digest of nominations files, fallen out of use <br>
 2) still useful but usefulness plagued by accessibility (explain before)
 
 ## overhaul
+<!-- .slide: data-background="#595C5F" -->
 note: 1) a major revision was undertaken to revitalise as a source of useufl information <br>
 2) web based + search functionality
 
 ## demo
+<!-- .slide: data-background="#595C5F" -->
 - <a href='https://yichuans.github.io/datasheet/output' target='_blank'>Natural World Heritage information sheets</a>
 note: demo a case site + search + by country
 
 
 # Human footprint and forest loss
+<!-- .slide: data-background="#8C68CB" -->
 
 ## paper of the month award
+<!-- .slide: data-background="#8C68CB" -->
 note: iucn contributed a paper that uses the google earth engine to quantify human footprint change and forest loss. It won an award by elsevier out of more than 1000 journals
 
 ## amplify the impact
+<!-- .slide: data-background="#8C68CB" -->
 note: science paper has limited reach to people. therefore a web platform to communicate site specific information to users
 
 ## demo
+<!-- .slide: data-background="#8C68CB" -->
 - <a href='http://world-heritage-analyses.greenfirescience.com/human-footprint/' target='_blank'>Human footprint change</a>
 - <a href='http://world-heritage-analyses.greenfirescience.com/forest-loss/' target='_blank'>Forest loss</a>
 note: also attempt to get user feedbacks
@@ -205,7 +216,6 @@ note: also attempt to get user feedbacks
 
 # climate change vulnerability
 <!-- .slide: data-background="./gland_assets/b2.jpg" -->
-note: <strong>Elise to take over</strong>
 
 ## on the shoulders of giants
 powered by species climate change vulnerability assessments
@@ -302,16 +312,15 @@ note:
 note: ultimately it is the users we want to influence, educate and modify their behaviours. Without user buy-in, it would be hard work, with little impact. That's why here today, advocating and trying to convince you that 1) this is indeed a good idea 2) get you on-board this journey and get your feedbacks 3) first users to start using and promoting them.
 
 <!-- .slide: data-background="#1B5E20" -->
->"If you want to go quickly, go alone. If you want to go far, go together."
-note: 
-1) end with an African proverb. don't  consider this as an Y project alone, but something we are all part of; as we are all generating knowledge and communicating to our end users <br>
-2) no need to be in a hurry and rush, take a moment a) think about it b) start using it c) think again d) implement. Until 2017/2018
+<img src='./krakow_assets/QR_krakow.png' style='border:none;min-width:50%'><br>
+<a href='http://world-heritage-analyses.iucn.org' target='_blank'>http://world-heritage-analyses.iucn.org</a>
 
 # questions
 <!-- .slide: data-background="./gland_assets/b8.jpg" -->
 
 
-# Thank you
 <!-- .slide: data-background="./krakow_assets/krakow.png" -->
-<img src='./krakow_assets/qr.png' style='border:none;max-width:50%'><br>
+<img src='./krakow_assets/QR_krakow.png' style='border:none;min-width:50%'><br>
+<a href='https://yichuans.github.io/presentation/krakow.html#' target='_blank'>The link to the presentation</a><br>
+<br>
 <a href="#/"><small>restart</small></a>
