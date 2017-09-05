@@ -1,8 +1,9 @@
 <!--============ INTRO -->
 # welcome
-<!-- .slide: data-background="welcome2.png" -->
+<!-- .slide: data-background="beijing_assets/beijing_stamen.png" -->
 <br>
-<small>Yichuan Shi</small>
+<small>Yichuan Shi</small><br>
+<small>史一川</small>
 note: thank invitation to organiser<br>
 grateful to be here with you <br>
 
@@ -13,22 +14,24 @@ my roles: technical input to all three: manage global NWHS data, research on nat
 you may be more experienced, introduce my work, hope of use to you; opportunity for me also to learn from you <br> 
 
 ## about the course
-note: presentation, participatory process, tutorials and hands-on practices <br>
+note: presentation, participation, tutorials and hands-on practices <br>
 
 ## the agenda
 - Introduction on IUCN and UNEP-WCMC
 - Introduction on earth observation and biodiversity conservation
-- Case studies on remote sensing and natural World Heritage sites
-- Exercise: data access
-- Exercise: analysis
-- Exercise: communication and story telling
-note: 
+- Case study: Landsat archive (data access)
+- Case study: Human footprint and forest loss (analysis)
+- Case study: Land cover change (visualisation and story telling)
+- Introduction on IUCN's digital initiative
+note: presentation, hands-on exercise
 
 <i class="fa fa-users fa-5x"></i>
 ### What do you think
 <!-- .slide: data-background="white" -->
-note: I understand different needs and expectation <br>
+note: group exercise and reporting <br>
+I understand different background, needs and expectations <br>
 flexible to cover different content, adjust focus if needed <br>
+are there specific things you would like to talk about etc
 
 
 <!-- =========== ABOUT CENTRE -->
@@ -42,7 +45,7 @@ Note: 35 yrs +, Cambridge, 100+, biologist, computer scientist, economist, GIS p
 
 ### To put biodiversity at the heart of decision-making
 <!-- .slide: data-background="wcmc-1.jpg" -->
-Note: biodiversity arm of UNEP, most to do biodiv conservation; question: what's biodiversity + answer; 
+Note: biodiversity arm of UN Environment, most to do biodiv conservation; question: what's biodiversity + answer; 
 
 ### Unlock the power of data
 <!-- .slide: data-background="wcmc-2.jpg" -->
@@ -118,7 +121,8 @@ Note: powerful, cost efficient way for large scale monitoring
 <!-- .slide: data-background-image="l8_okavango.gif" -->
 Note: okavango delta, landsat 8, 30 meter resolution
 
-<iframe  width="1080" height="700" data-src="https://earthengine.google.com/iframes/timelapse_player_embed.html#v=22.16343,113.56346,11.601,latLng&t=2.43" frameborder="0"></iframe>
+<!-- <iframe  width="1080" height="700" data-src="https://earthengine.google.com/iframes/timelapse_player_embed.html#v=22.16343,113.56346,11.601,latLng&t=2.43" frameborder="0"></iframe> -->
+<iframe width="1080" height="700" src="https://earthengine.google.com/iframes/timelapse_player_embed.html#v=39.98967,116.49397,10.024,latLng&t=1.94" frameborder="0"></iframe>
 Note: powerful computation, big data. Macau, google earth engine <br>
 more later: data availability and computation power available
 
@@ -143,35 +147,164 @@ Note: terrestrial biodiv, marine WH, benefits study, published in Science
 
 ### climate change
 <!-- .slide: data-background="ccv.png" -->
-<a href='http://wh-app.noip.me/ccv' target='_blank'>Climate Change Vulnerability for World Heritage</a>
+<a href='http://wh-app.yichuans.me/ccv' target='_blank'>Climate Change Vulnerability for World Heritage</a>
+
 
 <i class="fa fa-coffee fa-5x"></i>
-### Take a break!
+## Take a break!
 <!-- .slide: data-background="white" -->
+note: ask them to create a free esri account，if you haven't
 
 
 <!-- ======= REMOTE SENSING AND BIODIVERSITY CONSERVATION -->
 # Remote sensing and biodiversity conservation
+note: natural WH, monitoring for conservation of biodiversity
 
 <i class="fa fa-users fa-5x"></i>
-### question time
+### questions
 <!-- .slide: data-background="white" -->
+1. top 3 most urgent needs for conservation
+2. top 3 conservation opportunities using remote sensing
+3. top 3 challenges using remote sensing
+note: each person -> three post it different colour, one for each question <br>
+keep it brief <br>
 
-### have you used remote sensing in the monitoring and/or conservation of sites, if so what? LIST: top 3 most urgent knowledge gaps for conservation; top 3 things that you think could benefit from remote sensing
-note: three post it different colour
+## biodiversity targets
+1. Current operational Earth observation products
+2. To what extent do they address the needs
+3. What are the limitations
+
+<img src='./beijing_assets/aichi.png' style='border:none;'>
+
+## case: protected areas
+
+### Target 11. Protected areas
+>By 2020, at least 17 per cent of terrestrial and inland water, and 10 per cent of coastal and marine areas, especially areas of particular importance for biodiversity and ecosystem services, are conserved through effectively and equitably managed, ecologically representative and well connected systems of protected areas and other effective area-based conservation measures, and integrated into the wider landscapes and seascapes.
+
+### Operational Indicators
+- Trends in coverage of protected areas (A)
+- Trends in protected areas conditions and management effectiveness (A)
+- Trends in representative coverage of protected areas of sites of particular biodiversity importance (A)
+- Trends in the connectivity of protected areas (B)
+note: that can be (partly) derived from remotely- sensed data <br>
+The Ad Hoc Technical Expert Group on Indicators for the Strategic Plan for Biodiversity 2011-2020 identified three categories of operational indicators. Indicators which are ready for use at the global level are denoted by the letter (A). Indicators which could be used at the global level but which require further development to be ready for use are denoted by the letter (B). Additional indicators for consideration for use at the national or other sub- global level are denoted by the letter (C) and given in italics. The set of (A) and (B) indicators are those which should be used to assess progress at the global level, while the (C) indicators are illustrative of some of the additional indicators available to Parties to use at the national level, according to their national priorities and circumstances.
+
+### Relevant Operational EO products
+Land cover and land cover change, Normalized Difference Vegetation Index (NDVI), NDVI-derived anomalies such as the Vegetation Condition Index or the Vegetation Productivity Index, Leaf Area Index (LAI), Fraction of Absorbed Photosynthetically Active Radiation (FAPAR), re extent, Global Forest Watch 2.0
+
 
 <!-- ====== DATA ACCESS:  -->
 # Access remote sensing data
-- 
+
+<i class="fa fa-users fa-5x"></i>
+### Where do you get data from? What data?
+<!-- .slide: data-background="white" -->
+note: six groups. Discuss between your selves and invite each person to report
+
+# near real-time landsat 8 imagery
+<!-- .slide: data-background="./gland_assets/b4.jpg" -->
+
+## Landsat archive project
+
+## Landsat 8 imagery in the cloud
+<!-- .slide: data-background="#A45209" -->
+note: archiving, no longer relevant -> no need to host data in house while it's ubiquitous and easily accessible
+
+## What do they look like... *NOW*?
+<!-- .slide: data-background="#A45209" -->
+note: move away from the original goal, frees time for more interest work
+1) Time series data, finds the best image (cloud free) in any past given time range. composition of spectra. <br>
+2) already an idea or on information that is reported, photographic proof if there is any supporting evidence from remote sensing
+
+<!-- .slide: data-background-iframe="https://www.mapbox.com/bites/00114/" -->
+<!-- .slide: data-background="#A45209" -->
+note: cloud, web services: data is on the internet and can be easily accessed and customised without the need to download. Computation on the cloud
+
+## future beyond pretty pictures
+<!-- .slide: data-background="#A45209" -->
+note: as it stands only visuals - immense opportunity and potential to better visualise but also analyse in the cloud.
+1) change of NDVI, vegetation index overtime <br>
+2) give you land cover classification on the fly, dynamically (GEE) - tell you also what they are and how they change
+
+## demo
+<!-- .slide: data-background="#A45209" -->
+- <a href='http://wh-app.yichuans.me/landsat' target='_blank'>Landsat 8 for natural World Heritage</a>
+note: first web service based product. Dynamic in that as long as new data comes in, the maps will be automatically updated. Little or no maintenance cost.
+
+
+<i class="fa fa-book fa-5x"></i>
+## exercise
+<!-- .slide: data-background="white" -->
+note: band combination traditional and doing it online (consume a web service with filtered dates) this will serve as a first step for the final exercise
 
 
 <!-- ==== ANALYSIS -->
+# Human footprint and forest loss
+<!-- .slide: data-background="#8C68CB" -->
+
+## paper of the month award
+<!-- .slide: data-background="#8C68CB" -->
+note: iucn contributed a paper that uses the google earth engine to quantify human footprint change and forest loss. It won an award by elsevier out of more than 1000 journals
+
+## amplify the impact
+<!-- .slide: data-background="#8C68CB" -->
+note: science paper has limited reach to people. therefore a web platform to communicate site specific information to users
+
+## demo
+<!-- .slide: data-background="#8C68CB" -->
+- <a href='http://world-heritage-analyses.greenfirescience.com/human-footprint/' target='_blank'>Human footprint change</a>
+- <a href='http://world-heritage-analyses.greenfirescience.com/forest-loss/' target='_blank'>Forest loss</a>
+note: also attempt to get user feedbacks
 
 
-<!-- PRESENTING INFORMATION -->
+<i class="fa fa-coffee fa-5x"></i>
+## Take a break!
+<!-- .slide: data-background="white" -->
 
 
+<i class="fa fa-book fa-5x"></i>
+## exercise
+<!-- .slide: data-background="white" -->
+note: different ways, why open source, anaconda <br>
+may be technical so not for everyone but nevertheless I feel compelled to mention it here, and give you a taste as we believe it is the future. <br>
+open source, transparent methodology, collaborative and repeatable <br>
+free to use, no vendor lock in, thus reducing the threshold of traditionally expensive software <br>
 
+
+<!-- ==== PRESENTING INFORMATION -->
+# land cover change
+<!-- .slide: data-background="./gland_assets/b3.jpg" -->
+
+## highest spatial resolution global land cover
+GlobeLand30 - 30 meter resolution
+<!-- .slide: data-background="OliveDrab" -->
+note: 1. first time quantitative analysis of land cover for all natural sites <br>
+2. thanks to 30 meter global land cover - datasets two time epochs using the same methodology thus change can be estimated
+
+<!-- .slide: data-background="./krakow_assets/landcover.gif" -->
+note: 1. what we did - calculate pixel by pixel change within each WH site <br>
+2. calculate not only total amount but also the change, from each landcover classification
+
+## new perspective for screening potential threats
+<!-- .slide: data-background="OliveDrab" -->
+note: validation required. it tells you what but not why - another source of potential threats. <br>
+1. example, WHO assessment. Could refer to the LCC for any substantial change, if so, this signals an alert, if otherwise unknown, a possible damaging event. forest loss, water body change, amongst others.
+
+## demo
+<!-- .slide: data-background="OliveDrab" -->
+- <a href='http://wh-app.yichuans.me/wh_app/landcover' target='_blank'>Land Cover change</a>
+note: first time comprehensive, systematic land class mapping exercise, first time investigated the dynamics of change, first time used the web as a media to deliver findings
+
+
+<i class="fa fa-book fa-5x"></i>
+## exercise
+<!-- .slide: data-background="white" -->
+note: compare change map, story map; show the remote sensing journal <br>
+create web map with three layers (WH, 2016 and 2005), and then web application for change difference <br>
+if time, create a story map using the web map
+
+
+<!-- ==== DIGITAL INITAITVE -->
 # world heritage analyses
 <!-- .slide: data-background-iframe="./krakow_assets/globe.html" -->
 
@@ -266,63 +399,6 @@ E.g. A prioritisation exercise where was asked to look at the relationship betwe
 note: quickly run through the examples
 
 
-# land cover change
-<!-- .slide: data-background="./gland_assets/b3.jpg" -->
-
-## highest spatial resolution global land cover
-GlobeLand30 - 30 meter resolution
-<!-- .slide: data-background="OliveDrab" -->
-note: 1. first time quantitative analysis of land cover for all natural sites <br>
-2. thanks to 30 meter global land cover - datasets two time epochs using the same methodology thus change can be estimated
-
-<!-- .slide: data-background="./krakow_assets/landcover.gif" -->
-note: 1. what we did - calculate pixel by pixel change within each WH site <br>
-2. calculate not only total amount but also the change, from each landcover classification
-
-## new perspective for screening potential threats
-<!-- .slide: data-background="OliveDrab" -->
-note: validation required. it tells you what but not why - another source of potential threats. <br>
-1. example, WHO assessment. Could refer to the LCC for any substantial change, if so, this signals an alert, if otherwise unknown, a possible damaging event. forest loss, water body change, amongst others.
-
-## demo
-<!-- .slide: data-background="OliveDrab" -->
-- <a href='http://wh-app.yichuans.me/wh_app/landcover' target='_blank'>Land Cover change</a>
-note: first time comprehensive, systematic land class mapping exercise, first time investigated the dynamics of change, first time used the web as a media to deliver findings
-
-
-# near real-time landsat 8 imagery
-<!-- .slide: data-background="./gland_assets/b4.jpg" -->
-
-## what is *remote sensing*?
-<!-- .slide: data-background="./gland_assets/rs.gif" -->
-note: sense from a distance, on board aircraft and satellite. Valuable, frequent direct observations of features, such as... on the ground from a distance. E.g. look at spetrum of infrared, tell a lot about vegetation.
-
-## Landsat 8 imagery in the cloud
-<!-- .slide: data-background="#A45209" -->
-note: archiving, no longer relevant -> no need to host data in house while it's ubiquitous and easily accessible
-
-## What do they look like... *NOW*?
-<!-- .slide: data-background="#A45209" -->
-note: move away from the original goal, frees time for more interest work
-1) Time series data, finds the best image (cloud free) in any past given time range. composition of spectra. <br>
-2) already an idea or on information that is reported, photographic proof if there is any supporting evidence from remote sensing
-
-<!-- .slide: data-background-iframe="https://www.mapbox.com/bites/00114/" -->
-<!-- .slide: data-background="#A45209" -->
-note: cloud, web services: data is on the internet and can be easily accessed and customised without the need to download. Computation on the cloud
-
-## future beyond pretty pictures
-<!-- .slide: data-background="#A45209" -->
-note: as it stands only visuals - immense opportunity and potential to better visualise but also analyse in the cloud.
-1) change of NDVI, vegetation index overtime <br>
-2) give you land cover classification on the fly, dynamically (GEE) - tell you also what they are and how they change
-
-## demo
-<!-- .slide: data-background="#A45209" -->
-- <a href='http://wh-app.yichuans.me/landsat' target='_blank'>Landsat 8 for natural World Heritage</a>
-note: first web service based product. Dynamic in that as long as new data comes in, the maps will be automatically updated. Little or no maintenance cost.
-
-
 # Google Earth Engine
 <!-- .slide: data-background-iframe="./krakow_assets/spin.html" -->
 
@@ -358,24 +434,6 @@ note: 1) a major revision was undertaken to revitalise as a source of useufl inf
 <!-- .slide: data-background="#595C5F" -->
 - <a href='https://yichuans.github.io/datasheet/output' target='_blank'>Natural World Heritage information sheets</a>
 note: demo a case site + search + by country
-
-
-# Human footprint and forest loss
-<!-- .slide: data-background="#8C68CB" -->
-
-## paper of the month award
-<!-- .slide: data-background="#8C68CB" -->
-note: iucn contributed a paper that uses the google earth engine to quantify human footprint change and forest loss. It won an award by elsevier out of more than 1000 journals
-
-## amplify the impact
-<!-- .slide: data-background="#8C68CB" -->
-note: science paper has limited reach to people. therefore a web platform to communicate site specific information to users
-
-## demo
-<!-- .slide: data-background="#8C68CB" -->
-- <a href='http://world-heritage-analyses.greenfirescience.com/human-footprint/' target='_blank'>Human footprint change</a>
-- <a href='http://world-heritage-analyses.greenfirescience.com/forest-loss/' target='_blank'>Forest loss</a>
-note: also attempt to get user feedbacks
 
 
 # climate change vulnerability
@@ -483,6 +541,6 @@ note: ultimately it is the users we want to influence, educate and modify their 
 <!-- .slide: data-background="./gland_assets/b8.jpg" -->
 
 
-<!-- .slide: data-background="./krakow_assets/krakow.png" -->
+<!-- .slide: data-background="beijing_assets/beijing_stamen.png" -->
 Thank you <br>
 <a href="#/"><small>restart</small></a>
