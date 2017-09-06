@@ -5,15 +5,17 @@
 <small>Yichuan Shi</small><br>
 <small>史一川</small>
 note: thank invitation to organiser<br>
-grateful to be here with you <br>
+grateful to be here <br>
 
 ## about me
+<!-- .slide: data-background="beijing_assets/beijing_stamen.png" -->
 note: background in GIS/remote sensing, 2009 Cambridge graduate <br>
 UN environment secondment IUCN for 7 years <br>
 my roles: technical input to all three: specifically manage global NWHS data, research on natural WH heritage, comparative analysis, and research papers <br>
 you may be more experienced, introduce my work, hope of use to you; opportunity for me also to learn from you <br> 
 
 ## about the course
+<!-- .slide: data-background="beijing_assets/beijing_stamen.png" -->
 - Presentation
 - Participation
 - Tutorials and hands-on exercises
@@ -25,6 +27,7 @@ not to help you become remote sensing specialist over 8 hours. Crush course 1: o
 - long day: structure up front, a) outlines of the modules b) summary or review after each section (to help them remember) <br>
 
 ## the (draft) outline
+<!-- .slide: data-background="beijing_assets/beijing_stamen.png" -->
 - Introduction on IUCN and UNEP-WCMC
 - Introduction on earth observation and biodiversity conservation
 - Case study: Landsat archive (data access)
@@ -40,12 +43,12 @@ note: group exercise and reporting back in 5 minutes <br>
 - understand that participants may have different background, experiences and expertise, ensure the course is stretched to cover the majority of interest and is useful + I understand different background, needs and expectations <br>
 - flexible to cover different content, adjust focus if needed <br>
 - are there specific things you would like to talk about etc <br>
-- blackboard: YOUR learning objectives, current challenges, things useful to you <br>
+- blackboard: your expectation of this course -> your objectives, your challenges, your needs <br>
 - challenges: 
     a. vastly different landscapes, abundance data, sufficient temporal spatial resolution, good algorithm, computing power.
     b. mismatch between what are needed, and what currently are available <br>
-- learning objectives 
-- needs
+- objectives: understand WH management
+- needs: data methodology, project 
 
 
 <!-- =========== ABOUT CENTRE -->
@@ -147,8 +150,8 @@ more later: data availability and computation power available
 <!-- .slide: data-background="carto-0.png" -->
 Note: the WH convention is not without its problems; one of which is the huge divide geographically and politically
 
-<!-- ## cartogram by number of sites -->
 <!-- .slide: data-background-image="carto.png" -->
+Note: cartogram by number of sites
 
 ### best practices guidance documents
 Note: reports etc
@@ -159,11 +162,6 @@ Note: reports etc
 <img data-src='sc.png' style='border:none;width:30%'>
 Note: terrestrial biodiv, marine WH, benefits study, published in Science
 
-### climate change
-<!-- .slide: data-background="ccv.png" -->
-<a href='http://wh-app.yichuans.me/ccv' target='_blank'>Climate Change Vulnerability for World Heritage</a>
-
-
 <i class="fa fa-coffee fa-5x"></i>
 ## Take a break!
 <!-- .slide: data-background="white" -->
@@ -172,6 +170,7 @@ note: ask them to create a free esri account，if you haven't
 
 <!-- ======= REMOTE SENSING AND BIODIVERSITY CONSERVATION -->
 # Remote sensing and biodiversity conservation
+<!-- .slide: data-background-iframe="./krakow_assets/globe.html" -->
 note: natural WH, monitoring for conservation of biodiversity
 
 <i class="fa fa-users fa-5x"></i>
@@ -185,18 +184,23 @@ each person -> three post it different colour, one for each question <br>
 keep it brief <br>
 
 ## biodiversity targets
+<!-- .slide: data-background="#595C5F" -->
 1. Current operational Earth observation products
 2. To what extent do they address the needs
 3. What are the limitations
 
+<!-- .slide: data-background="#595C5F" -->
 <img src='./beijing_assets/aichi.png' style='border:none;'>
 
 ## case: protected areas
+<!-- .slide: data-background="#595C5F" -->
 
 ### Target 11. Protected areas
+<!-- .slide: data-background="#595C5F" -->
 >By 2020, at least 17 per cent of terrestrial and inland water, and 10 per cent of coastal and marine areas, especially areas of particular importance for biodiversity and ecosystem services, are conserved through effectively and equitably managed, ecologically representative and well connected systems of protected areas and other effective area-based conservation measures, and integrated into the wider landscapes and seascapes.
 
 ### Operational Indicators
+<!-- .slide: data-background="#595C5F" -->
 - Trends in coverage of protected areas (A)
 - Trends in protected areas conditions and management effectiveness (A)
 - Trends in representative coverage of protected areas of sites of particular biodiversity importance (A)
@@ -205,28 +209,60 @@ note: that can be (partly) derived from remotely- sensed data <br>
 The Ad Hoc Technical Expert Group on Indicators for the Strategic Plan for Biodiversity 2011-2020 identified three categories of operational indicators. Indicators which are ready for use at the global level are denoted by the letter (A). Indicators which could be used at the global level but which require further development to be ready for use are denoted by the letter (B). Additional indicators for consideration for use at the national or other sub- global level are denoted by the letter (C) and given in italics. The set of (A) and (B) indicators are those which should be used to assess progress at the global level, while the (C) indicators are illustrative of some of the additional indicators available to Parties to use at the national level, according to their national priorities and circumstances.
 
 ### Relevant Operational EO products
+<!-- .slide: data-background="#595C5F" -->
 Land cover and land cover change, Normalized Difference Vegetation Index (NDVI), NDVI-derived anomalies such as the Vegetation Condition Index or the Vegetation Productivity Index, Leaf Area Index (LAI), Fraction of Absorbed Photosynthetically Active Radiation (FAPAR), re extent, Global Forest Watch 2.0
+
+### Limitation
+<!-- .slide: data-background="#595C5F" -->
+Protected area condition cannot always be assessed using remote sensing, for example, selective logging, invasive species, and agricultural encroachment can be missed, and hunting is not detectable.
+
+<img src='./beijing_assets/rs_review.png' style='border:none;max-height:50%'>
 
 
 <!-- ====== DATA ACCESS:  -->
 # Access remote sensing data
 <!-- .slide: data-background-iframe="./krakow_assets/globe.html" -->
+note: a type of data science <br>
+data - information - knowledge holds true <br>
+appropriate resolution, timely, and good quality data matter, garbage in and out
 
 <i class="fa fa-users fa-5x"></i>
 ### Where do you get data from? What data?
 <!-- .slide: data-background="white" -->
-note: six groups. Discuss between your selves and invite each person to report
+note: six groups. Discuss between your selves and invite each person to report <br>
+what data have you used before, for what purpose? where do you get from? Is it suitable for your purpose
 
 # near real-time landsat 8 imagery
 <!-- .slide: data-background="./gland_assets/b4.jpg" -->
 
 ## Landsat archive project
+<!-- .slide: data-background="#A45209" -->
+note: why need for data. Colleague question do you have data for a threat we know on the ground. Not easy, not cheap <br>
+aim: when new data available
+
+<!-- .slide: data-background="http://i.giphy.com/LwAjTGdSWNRYc.gif" -->
+note: yes
+
+### ...but, not so easy...
+<!-- .slide: data-background="./gland_assets/dogfail.gif" -->
+
+## challenges
+<!-- .slide: data-background="#A45209" -->
+- Big data: volume, velocity, variety
+- Computation power and storage space
+- Management cost
+
+## how we did it
+<!-- .slide: data-background="#A45209" -->
+- (Automate) download
+- (Automate) pre-processing
+- (Automate) data management
 
 ## Landsat 8 imagery in the cloud
 <!-- .slide: data-background="#A45209" -->
 note: archiving, no longer relevant -> no need to host data in house while it's ubiquitous and easily accessible
 
-## What do they look like... *NOW*?
+## What do they look like... **NOW**?
 <!-- .slide: data-background="#A45209" -->
 note: move away from the original goal, frees time for more interest work
 1) Time series data, finds the best image (cloud free) in any past given time range. composition of spectra. <br>
@@ -257,6 +293,7 @@ note: band combination traditional and doing it online (consume a web service wi
 <!-- ==== ANALYSIS -->
 # Human footprint and forest loss
 <!-- .slide: data-background="#8C68CB" -->
+note: 
 
 ## paper of the month award
 <!-- .slide: data-background="#8C68CB" -->
