@@ -10,13 +10,21 @@ grateful to be here with you <br>
 ## about me
 note: background in GIS/remote sensing, 2009 Cambridge graduate <br>
 UN environment secondment IUCN for 7 years <br>
-my roles: technical input to all three: manage global NWHS data, research on natural WH heritage, comparative analysis, and research papers <br>
+my roles: technical input to all three: specifically manage global NWHS data, research on natural WH heritage, comparative analysis, and research papers <br>
 you may be more experienced, introduce my work, hope of use to you; opportunity for me also to learn from you <br> 
 
 ## about the course
-note: presentation, participation, tutorials and hands-on practices <br>
+- Presentation
+- Participation
+- Tutorials and hands-on exercises
+note: it's about building your capacity <br>
+not to help you become remote sensing specialist over 8 hours. Crush course 1: overwhelming information 2: extremely boring technical details <br>
+- aims: 1. basic ideas on the principles 2. aware of the technology available 3. workflow 4. what is being done, what can be done. Walk away with any of the above, missions accomplished. <br>
+- light, relaxed as no technical terms; get you to think and participate <br>
+- old Chinese proverb: 三人行必有我师 (Stay hungry, Stay foolish), some of you may have far more experience in some respect, I’d like to welcome and encourage interventions and comments (don’t be shy), one of the objective is to facilitate the flow of information so that we learn mutually from one another <br>
+- long day: structure up front, a) outlines of the modules b) summary or review after each section (to help them remember) <br>
 
-## the agenda
+## the (draft) outline
 - Introduction on IUCN and UNEP-WCMC
 - Introduction on earth observation and biodiversity conservation
 - Case study: Landsat archive (data access)
@@ -28,10 +36,16 @@ note: presentation, hands-on exercise
 <i class="fa fa-users fa-5x"></i>
 ### What do you think
 <!-- .slide: data-background="white" -->
-note: group exercise and reporting <br>
-I understand different background, needs and expectations <br>
-flexible to cover different content, adjust focus if needed <br>
-are there specific things you would like to talk about etc
+note: group exercise and reporting back in 5 minutes <br>
+- understand that participants may have different background, experiences and expertise, ensure the course is stretched to cover the majority of interest and is useful + I understand different background, needs and expectations <br>
+- flexible to cover different content, adjust focus if needed <br>
+- are there specific things you would like to talk about etc <br>
+- blackboard: YOUR learning objectives, current challenges, things useful to you <br>
+- challenges: 
+    a. vastly different landscapes, abundance data, sufficient temporal spatial resolution, good algorithm, computing power.
+    b. mismatch between what are needed, and what currently are available <br>
+- learning objectives 
+- needs
 
 
 <!-- =========== ABOUT CENTRE -->
@@ -166,7 +180,8 @@ note: natural WH, monitoring for conservation of biodiversity
 1. top 3 most urgent needs for conservation
 2. top 3 conservation opportunities using remote sensing
 3. top 3 challenges using remote sensing
-note: each person -> three post it different colour, one for each question <br>
+note: why do we need remote sensing <br>
+each person -> three post it different colour, one for each question <br>
 keep it brief <br>
 
 ## biodiversity targets
@@ -195,6 +210,7 @@ Land cover and land cover change, Normalized Difference Vegetation Index (NDVI),
 
 <!-- ====== DATA ACCESS:  -->
 # Access remote sensing data
+<!-- .slide: data-background-iframe="./krakow_assets/globe.html" -->
 
 <i class="fa fa-users fa-5x"></i>
 ### Where do you get data from? What data?
@@ -257,10 +273,28 @@ note: science paper has limited reach to people. therefore a web platform to com
 note: also attempt to get user feedbacks
 
 
+# Google Earth Engine
+<!-- .slide: data-background-iframe="./krakow_assets/spin.html" -->
+
+## Hugely powerful
+note: 1) petabytes of data already in the cloud, at the click of a button, sno need to download to analyse <br>
+2) geospatial parallel computing in the cloud -> near real time result <br>
+3) computation on the fly, calculations done at the time you request it <br>
+
+## Surface water transition
+note: we ran a test that uses the google earth engine to calculate surface water change in all natural world heritage sites
+
+## demo
+- <a href='https://yichuans413.appspot.com' target='_blank'>Google Earth Engine for surface water transition</a>
+- <a href='https://earthengine.google.com' target='_blank'>Google Earth Engine documentation </a>
+note: 1) explain global surface water <br>
+2) refresh the page if inactive - the demo result is done in real time, no result is pre-cooked.
+
+
 <i class="fa fa-coffee fa-5x"></i>
 ## Take a break!
 <!-- .slide: data-background="white" -->
-
+Install Anaconda if you haven't already
 
 <i class="fa fa-book fa-5x"></i>
 ## exercise
@@ -397,23 +431,6 @@ E.g. A prioritisation exercise where was asked to look at the relationship betwe
 - <a href='http://wcmc.io/world-heritage-data' target='_blank'>World Heritage data service metadata</a>
 - <a href='http://wcmc.io/wh-story-2016' target='_blank'>2016 inscription story map</a>
 note: quickly run through the examples
-
-
-# Google Earth Engine
-<!-- .slide: data-background-iframe="./krakow_assets/spin.html" -->
-
-## Hugely powerful
-note: 1) petabytes of data already in the cloud, at the click of a button, sno need to download to analyse <br>
-2) geospatial parallel computing in the cloud -> near real time result <br>
-3) computation on the fly, calculations done at the time you request it <br>
-
-## Surface water transition
-note: we ran sa test that uses the google earth engine to calculate surface water change in all natural world heritage sites
-
-## demo
-- <a href='https://yichuans413.appspot.com' target='_blank'>Google Earth Engine for surface water transition</a>
-note: 1) explain global surface water <br>
-2) refresh the page if inactive - the demo result is done in real time, no result is pre-cooked.
 
 
 # World Heritage information sheets
