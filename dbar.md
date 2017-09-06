@@ -219,20 +219,32 @@ Protected area condition cannot always be assessed using remote sensing, for exa
 <img src='./beijing_assets/rs_review.png' style='border:none;max-height:50%'>
 
 
+<!-- DAY 2: Your needs -->
+# What we covered yesterday
+<!-- .slide: data-background="beijing_assets/beijing_stamen.png" -->
+
+# What you want are...
+<!-- .slide: data-background="beijing_assets/beijing_stamen.png" -->
+Data access, building capacity, tools and infrastructure, exchange of experience on management, frequent monitoring, automation, data sharing, database for conservation, information on climate impact...
+note: top 3s blackboard stickers, to share experience afterwards for all to see <br> 
+also the challenges we face <br>
+share experience from our work so far <br>
+
+
 <!-- ====== DATA ACCESS:  -->
 # Access remote sensing data
-<!-- .slide: data-background-iframe="./krakow_assets/globe.html" -->
+<!-- .slide: data-background-iframe="./krakow_assets/cpc.html" -->
 note: a type of data science <br>
 data - information - knowledge holds true <br>
 appropriate resolution, timely, and good quality data matter, garbage in and out
 
 <i class="fa fa-users fa-5x"></i>
-### Where do you get data from? What data?
+### What data do you have? Where do they come from?
 <!-- .slide: data-background="white" -->
 note: six groups. Discuss between your selves and invite each person to report <br>
 what data have you used before, for what purpose? where do you get from? Is it suitable for your purpose
 
-# near real-time landsat 8 imagery
+# case: near real-time landsat 8 imagery
 <!-- .slide: data-background="./gland_assets/b4.jpg" -->
 
 ## Landsat archive project
@@ -258,6 +270,9 @@ note: yes
 - (Automate) pre-processing
 - (Automate) data management
 
+## We need a sustainable solution
+<!-- .slide: data-background="#A45209" -->
+
 ## Landsat 8 imagery in the cloud
 <!-- .slide: data-background="#A45209" -->
 note: archiving, no longer relevant -> no need to host data in house while it's ubiquitous and easily accessible
@@ -278,22 +293,42 @@ note: as it stands only visuals - immense opportunity and potential to better vi
 1) change of NDVI, vegetation index overtime <br>
 2) give you land cover classification on the fly, dynamically (GEE) - tell you also what they are and how they change
 
-## demo
+## demo and questions
 <!-- .slide: data-background="#A45209" -->
 - <a href='http://wh-app.yichuans.me/landsat' target='_blank'>Landsat 8 for natural World Heritage</a>
 note: first web service based product. Dynamic in that as long as new data comes in, the maps will be automatically updated. Little or no maintenance cost.
 
 
 <i class="fa fa-book fa-5x"></i>
-## exercise
+## tutorial and exercise
 <!-- .slide: data-background="white" -->
 note: band combination traditional and doing it online (consume a web service with filtered dates) this will serve as a first step for the final exercise
 
 
 <!-- ==== ANALYSIS -->
-# Human footprint and forest loss
+# Analysing data
+<!-- .slide: data-background-iframe="./krakow_assets/cp.html" -->
+
+<i class="fa fa-users fa-5x"></i>
+### What analysis have you done? What are the results?
+<!-- .slide: data-background="white" -->
+note: six groups. Discuss between your selves and invite each person to report <br>
+
+# case: Human footprint and forest loss
 <!-- .slide: data-background="#8C68CB" -->
-note: 
+note: to understand the impact of human to world heritage sites. change 1993 - 2009, inside and outside WH sites
+
+## <a href='http://wcshumanfootprint.org' target='_blank'>Human footprint</a> <br>
+<!-- .slide: data-background="#8C68CB" -->
+Cumulative impact of the extent of built environments, crop land, pasture land, human population density, night-time lights, railways, roads, and navigable waterways.
+note: RS based modelled indicators
+
+## Scalable, and open
+<!-- .slide: data-background="#8C68CB" -->
+note: no talk on result, which is unsurprisingly grim <br>
+used ArcGIS, open source tech, cloud etc <br>
+scalable: little extra effort to repeat for other WH sites <br>
+open: the data and methodology and open, could be critiqued or improved by others
 
 ## paper of the month award
 <!-- .slide: data-background="#8C68CB" -->
@@ -301,27 +336,70 @@ note: iucn contributed a paper that uses the google earth engine to quantify hum
 
 ## amplify the impact
 <!-- .slide: data-background="#8C68CB" -->
-note: science paper has limited reach to people. therefore a web platform to communicate site specific information to users
+note: science paper has limited reach to people. <br>
+reaching impact and way to communicate and make it easy <br>
+therefore a web platform to communicate site specific information to users
 
-## demo
+## demo and questions
 <!-- .slide: data-background="#8C68CB" -->
 - <a href='http://world-heritage-analyses.greenfirescience.com/human-footprint/' target='_blank'>Human footprint change</a>
 - <a href='http://world-heritage-analyses.greenfirescience.com/forest-loss/' target='_blank'>Forest loss</a>
 note: also attempt to get user feedbacks
 
 
-# Google Earth Engine
+# case: climate change vulnerability
+<!-- .slide: data-background="./gland_assets/b2.jpg" -->
+note: someone mentioned climate change, I'll share with you an example we did
+
+## on the shoulders of giants
+powered by species climate change vulnerability assessments
+<!-- .slide: data-background="#3b5998" -->
+note: 
+1. based on the work by Foden 2012, GSP. <br>
+2. can't afford primary research <br>
+3. reuse their finding and make it relevant for WH
+
+## sensitivity, low adaptability and exposure
+<!-- .slide: data-background="#3b5998" -->
+note: 
+1. the concept: is it sensitive to cc, traits adaptable, will it be exposed <br>
+2. only when they are high score of all three, are they considered climate change vulnerable <br>
+3. scores are relative. Thus can't compared across taxa
+
+## outlook from the lens of species
+<!-- .slide: data-background="#3b5998" -->
+note: 
+1. infer species within WH using RL <br>
+2. aggregate all species CCV results within WH <br>
+3. Are species most vulnerable outside WH or inside <br>
+4. to what extent do WH provides refugee, high number of ccv species, management responses <br>
+5. useful for monitoring work. What are the sites that are ccv? in those sites, what are the species that are ccv? What traits leads to their ccv status? What management response could be? delineation based on future extent of such species?
+
+## demo and questions
+<!-- .slide: data-background="#3b5998" -->
+- <a href='http://nbviewer.jupyter.org/github/Yichuans/climate-vulnerable-wh/blob/master/report.ipynb' target='_blank'>Brief report</a>
+- <a href='http://nbviewer.jupyter.org/github/Yichuans/climate-vulnerable-wh/blob/master/workspace.ipynb' target='_blank'>Reproducible methodology, analysis and findings</a>
+- <a href='http://wh-app.yichuans.me/ccv' target='_blank'>Result for each natural and mixed World Heritage site</a>
+note: versioned, reproducible, communication oriented. first time data analytics: version controlled, open, accessible, scientific product. New thinking of delivering and communicating knowledge product through means other than lengthy text
+
+
+# case: Google Earth Engine
 <!-- .slide: data-background-iframe="./krakow_assets/spin.html" -->
+note: leverage of the power of giants <br>
+possibility and innovation in this field <br>
+address the issues of data, tools and infrastructure, because they're all in the cloud<br>
 
 ## Hugely powerful
 note: 1) petabytes of data already in the cloud, at the click of a button, sno need to download to analyse <br>
-2) geospatial parallel computing in the cloud -> near real time result <br>
-3) computation on the fly, calculations done at the time you request it <br>
+2) geospatial parallel computing in the cloud, doing multiple things at the same time <br>
+JOKE TIME: WIFE <br>
+3) computation on the fly, lazy calculations done at the time you request it <br>
 
 ## Surface water transition
-note: we ran a test that uses the google earth engine to calculate surface water change in all natural world heritage sites
+note: we ran a test that uses the google earth engine to calculate surface water change in all natural world heritage sites <br>
+roughly 2 days for me to run all WH sites and by doing so i've done it for all PA, or anything with a GIS boundary <br>
 
-## demo
+## demo and questions
 - <a href='https://yichuans413.appspot.com' target='_blank'>Google Earth Engine for surface water transition</a>
 - <a href='https://earthengine.google.com' target='_blank'>Google Earth Engine documentation </a>
 note: 1) explain global surface water <br>
@@ -334,7 +412,7 @@ note: 1) explain global surface water <br>
 Install Anaconda if you haven't already
 
 <i class="fa fa-book fa-5x"></i>
-## exercise
+## tutorial and exercise
 <!-- .slide: data-background="white" -->
 note: different ways, why open source, anaconda <br>
 may be technical so not for everyone but nevertheless I feel compelled to mention it here, and give you a taste as we believe it is the future. <br>
@@ -343,7 +421,7 @@ free to use, no vendor lock in, thus reducing the threshold of traditionally exp
 
 
 <!-- ==== PRESENTING INFORMATION -->
-# land cover change
+# case: land cover change
 <!-- .slide: data-background="./gland_assets/b3.jpg" -->
 
 ## highest spatial resolution global land cover
@@ -361,7 +439,7 @@ note: 1. what we did - calculate pixel by pixel change within each WH site <br>
 note: validation required. it tells you what but not why - another source of potential threats. <br>
 1. example, WHO assessment. Could refer to the LCC for any substantial change, if so, this signals an alert, if otherwise unknown, a possible damaging event. forest loss, water body change, amongst others.
 
-## demo
+## demo and questions
 <!-- .slide: data-background="OliveDrab" -->
 - <a href='http://wh-app.yichuans.me/wh_app/landcover' target='_blank'>Land Cover change</a>
 note: first time comprehensive, systematic land class mapping exercise, first time investigated the dynamics of change, first time used the web as a media to deliver findings
@@ -435,7 +513,7 @@ note:
 1. maximise accessibility. no matter what terminal device is used. to make it easy for them
 2. mobile first design. 
 
-## demo
+## demo and questions
 - <a href='http://world-heritage-analyses.iucn.org' target='_blank'>http://world-heritage-analyses.iucn.org</a>
 note: demo knowledge lab
 
@@ -462,7 +540,7 @@ as a data service
 note: it's all about enabling you to fully use the data and do amazing things<br>
 E.g. A prioritisation exercise where was asked to look at the relationship between intact forest and existing WH sites, with a view to identifying sites with significant overlap. 238 maps were, to the maximum detail, despite the massive effort (more than 1G in file size). Cannot address every user needs, which may have specific focus somewhere, look at a bigger picture -> why not enable them to do it themselves? The WH boundary service lets you do just that. 
 
-## demo 
+## demo and questions
 <!-- .slide: data-background="#0072b1" -->
 - <a href='http://wcmc.io/3f3e' target='_blank'>World Heritage viewer</a>
 - <a href='http://wcmc.io/world-heritage-data' target='_blank'>World Heritage data service metadata</a>
@@ -484,44 +562,10 @@ note: 1) concise digest of nominations files, fallen out of use <br>
 note: 1) a major revision was undertaken to revitalise as a source of useufl information <br>
 2) web based + search functionality
 
-## demo
+## demo and questions
 <!-- .slide: data-background="#595C5F" -->
 - <a href='https://yichuans.github.io/datasheet/output' target='_blank'>Natural World Heritage information sheets</a>
 note: demo a case site + search + by country
-
-
-# climate change vulnerability
-<!-- .slide: data-background="./gland_assets/b2.jpg" -->
-
-## on the shoulders of giants
-powered by species climate change vulnerability assessments
-<!-- .slide: data-background="#3b5998" -->
-note: 
-1. based on the work by Foden 2012, GSP. <br>
-2. reuse their finding and make it relevant for WH
-
-## sensitivity, low adaptability and exposure
-<!-- .slide: data-background="#3b5998" -->
-note: 
-1. the concept: is it sensitive to cc, traits adaptable, will it be exposed <br>
-2. only when they are high score of all three, are they considered climate change vulnerable <br>
-3. scores are relative. Thus can't compared across taxa
-
-## outlook from the lens of species
-<!-- .slide: data-background="#3b5998" -->
-note: 
-1. infer species within WH using RL <br>
-2. aggregate all species CCV results within WH <br>
-3. Are species most vulnerable outside WH or inside <br>
-4. to what extent do WH provides refugee, high number of ccv species, management responses <br>
-5. useful for monitoring work. What are the sites that are ccv? in those sites, what are the species that are ccv? What traits leads to their ccv status? What management response could be? delineation based on future extent of such species?
-
-## demo
-<!-- .slide: data-background="#3b5998" -->
-- <a href='http://nbviewer.jupyter.org/github/Yichuans/climate-vulnerable-wh/blob/master/report.ipynb' target='_blank'>Brief report</a>
-- <a href='http://nbviewer.jupyter.org/github/Yichuans/climate-vulnerable-wh/blob/master/workspace.ipynb' target='_blank'>Reproducible methodology, analysis and findings</a>
-- <a href='http://wh-app.yichuans.me/ccv' target='_blank'>Result for each natural and mixed World Heritage site</a>
-note: versioned, reproducible, communication oriented. first time data analytics: version controlled, open, accessible, scientific product. New thinking of delivering and communicating knowledge product through means other than lengthy text
 
 
 # spatial comparative analysis
@@ -546,7 +590,7 @@ a. proper spatial analysis <br>
 b. complete datasets <br>
 b. improved user experience
 
-## demo
+## demo and questions
 <!-- .slide: data-background="#8c0303" -->
 - <a href='http://whca.yichuans.me' target='_blank'>Spatial comparative analysis prototype</a>
 note: web GIS for the first time, complete system that takes input from the frontend interface, pass onto an underlying GIS database for analysis and then return the result to the web.
@@ -591,7 +635,8 @@ note: ultimately it is the users we want to influence, educate and modify their 
 <img src='./krakow_assets/QR_krakow.png' style='border:none;min-width:50%'><br>
 <a href='http://world-heritage-analyses.iucn.org' target='_blank'>http://world-heritage-analyses.iucn.org</a>
 
-# questions
+# this presentation
+<a href='https://yichuans.github.io/presentation/dbar.html' target='_blank'>https://yichuans.github.io/presentation/dbar.html</a>
 <!-- .slide: data-background="./gland_assets/b8.jpg" -->
 
 
