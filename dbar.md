@@ -421,6 +421,9 @@ free to use, no vendor lock in, thus reducing the threshold of traditionally exp
 
 
 <!-- ==== PRESENTING INFORMATION -->
+# Presenting information and story telling
+<!-- .slide: data-background-iframe="./krakow_assets/cp.html" -->
+
 # case: land cover change
 <!-- .slide: data-background="./gland_assets/b3.jpg" -->
 
@@ -639,6 +642,8 @@ note: ultimately it is the users we want to influence, educate and modify their 
 <a href='https://yichuans.github.io/presentation/dbar.html' target='_blank'>https://yichuans.github.io/presentation/dbar.html</a>
 <!-- .slide: data-background="./gland_assets/b8.jpg" -->
 
+# Feedback form
+<!-- .slide: data-background="./gland_assets/b8.jpg" -->
 
 <!-- .slide: data-background="beijing_assets/beijing_stamen.png" -->
 Thank you <br>
