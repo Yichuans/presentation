@@ -105,14 +105,21 @@ note: beta (meat + usable prototype): reporting, download, profiles, data import
 - Design implementations (Marketing pages looks great!) <!-- .element: class="complete" -->
 
 
-## beta release highlight
-<!-- .slide: data-background="wcmc-2.jpg" -->
-- report design
-- frontend innovation
-
-
 ## post beta plan
 <!-- .slide: data-background="wcmc-3.jpg" -->
+- Revise filters backend logic
+- Data download
+- Connect report backend and frontend
+
+## post beta plan
+<!-- .slide: data-background="wcmc-2.jpg" -->
+- Freshwater report (Sprint 10, 11)
+- EIB report (Sprint 11, 12, 13)
+- Custom report (Sprint 12, 13)
+- GRI report (Sprint 11, 12)
+- User management system (Sprint 11,12)
+- User migration (Sprint 12)
+- Testing (Sprint 13)
 
 
 ## thank you
