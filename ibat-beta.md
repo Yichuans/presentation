@@ -1,8 +1,6 @@
 <!--============ INTRO -->
 # IBAT redevelopment
 <!-- .slide: data-background="./gland_assets/cambridge.jpg" -->
-<br>
-Yichuan Shi<br>
  
 <small>Aug 2018</small><br>
 
@@ -69,10 +67,6 @@ note: enabled by our excellent bioinformatic development team! Challenging timel
 - report data generator
 note: alpha: user journey; UX/UI design; database architecture; prototyping main functionalities (functional skeletons);
 
-## IBAT 3.0 <span style="text-transform:lowercase;font-family:'Times New Roman', Times, serif">α</span>
-<!-- .slide: data-background="white" -->
-http://ibat.ibat_staging.linode.unep-wcmc.org
-
 ## post alpha plan
 - additional data and analytics for reports
 - report generator
@@ -86,6 +80,48 @@ http://ibat.ibat_staging.linode.unep-wcmc.org
 - data import and user data migration
 - unit, integration, user acceptance testing
 note: beta (meat + usable prototype): reporting, download, profiles, data import, migration from old system, unit testing, integration testing, user acceptance testing
+
+## beta highlight
+- web maps: WebGLJS
+- report designs
+- proximity report complete workflow
+- market pages
+- responsiveness
+
+## IBAT 3.0 <span style="text-transform:lowercase;font-family:'Times New Roman', Times, serif">ß</span>
+<!-- .slide: data-background="white" -->
+http://ibat.ibat_staging.linode.unep-wcmc.org
+
+## post beta plan
+<!-- .slide: data-background="wcmc-3.jpg" -->
+- Data filters reworks on the backend, per consultation
+- PS6 connecting design and implementation
+- FW design
+- Reports: custom, EIB, GRI, design and implementation
+- User management system
+- Data download
+- Country profile
+
+## post beta plan
+<!-- .slide: data-background="wcmc-2.jpg" -->
+- Freshwater report (Sprint 10, 11)
+- EIB report (Sprint 11, 12, 13)
+- Custom report (Sprint 12, 13)
+- GRI report (Sprint 11, 12)
+- User management system (Sprint 11, 12)
+- User migration (Sprint 12)
+- Testing (Final sprint - 2 weeks)
+
+## Dates
+<!-- .slide: data-background="wcmc-4.jpg" -->
+- Launch date: 25 Oct
+- user acceptance test: 2 week ahead of time
+- around the same time as UAT, have a final show-and-tell
+
+
+## thank you
+<!-- .slide: data-background="wcmc-1.jpg" -->
+
 
 ## post alpha plan
 - additional data and analytics for reports <!-- .element: class="partial" -->
@@ -104,22 +140,3 @@ note: beta (meat + usable prototype): reporting, download, profiles, data import
 - Data filter re-worked <!-- .element: class="complete" -->
 - Design implementations (Marketing pages looks great!) <!-- .element: class="complete" -->
 
-
-## post beta plan
-<!-- .slide: data-background="wcmc-3.jpg" -->
-- Revise filters backend logic
-- Data download
-- Connect report backend and frontend
-
-## post beta plan
-<!-- .slide: data-background="wcmc-2.jpg" -->
-- Freshwater report (Sprint 10, 11)
-- EIB report (Sprint 11, 12, 13)
-- Custom report (Sprint 12, 13)
-- GRI report (Sprint 11, 12)
-- User management system (Sprint 11,12)
-- User migration (Sprint 12)
-- Testing (Sprint 13)
-
-
-## thank you
