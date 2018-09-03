@@ -20,7 +20,7 @@ note: referred to detailed plan
 
 # Delivery priorities
 note: EIB addition + country profile defer
-
+ 
 
 # Remains...
 
@@ -35,7 +35,7 @@ note: because of the above changes. It's hard to put an accurate figure on curre
 
 ## 2/3 spent, > 1/2 delivered
 
-## estimated to go above budget by 20%
+## WCMC estimated to go above budget by 20%
 
 
 # Timeline and Sprints
@@ -64,6 +64,7 @@ GC could strengthen this mechanism and provide clear instruction of decision mak
 ## estimate
 note: IBAT is a complex system, evolved through multiple engineering cycles. Some complexities have not been and cannot fully captured in the proposal stage. For example, reports as budgeted in the contract do not reflect at all the unique requirement of individual report type that by itself contain technical complexity as well as business challenges such as consultation and agreement. For example he data filters have gone through 3 iterations after consultation. These are important overhead but nevertheless not been budgeted sufficiently. 
 This will likely result in increased project time and expenditure.
+note: we have the capacity to delivery, contingent to the above challenges being resolved
 
 
 # Key milestone
