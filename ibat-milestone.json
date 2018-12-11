@@ -1,0 +1,62 @@
+{
+    "timeline": {
+        "headline": "Reported at Governance Committee meeting, 15 August 2018",
+        "type": "default",
+        "startDate": "2018,8,15",
+        "text": "<p>Complete overall design, including modern map engine</p><p>User journey complete</p><p>Marketing suites complete</p><p>Report backend logics for proximity report</p>",
+        "asset": {
+        },
+        "date": [
+            {
+                "startDate": "2018,08,22",
+                "headline": "Map filters reworks and popups",
+                "text": "About reworking the filters in the backend, also including the rework of intersectsion in the backend. Adds popups to site features on map; Adds reports data to sites payload; Styles popups to look more like mockup",
+                "asset": {}
+            },
+            {
+                "startDate": "2018,09,05",
+                "headline": "Freshwater backend",
+                "text": "Calculate species richness for each grouping in the Freshwater report.This involves counting the total number of species by taxonomic group and also counting by RedList Category. Known issues / Future adjustments. Depending on the RedList Categories we decide to show in the report, we would need to strip out the ones we don't want from the calculation.",
+                "asset": {}
+            },
+            {
+                "startDate": "2018,09,26",
+                "headline": "Data download and end point security",
+                "text": "When a user generates a download from the data download page, he will then recieve an email with the link to download the file from S3. Instead of linking directly to the S3 link, it will now go to our server first to authenticate the user and making sure the user is the same who generated the download in the first place.",
+                "asset": {}
+            },
+            {
+                "startDate": "2018,09,27",
+                "headline": "Add range rarity layer in the map",
+                "text": "Add the range rarity raster layer in the set of available filters. Amendments to the databse have been performed, so a bundle exec rake db:migrate is required. The changes are about adding some more fields to the layers to identify raster layers and service urls.",
+                "asset": {}
+            },
+            {
+                "startDate": "2018,10,15",
+                "headline": "Text and images update",
+                "text": "Pricing, marketing suites, reports",
+                "asset": {}
+            },
+            {
+                "startDate": "2018,10,26",
+                "headline": "User migration script",
+                "text": "Adjust script based on new schemas (Business is different from WBG) Manage exception if user is not valid; User correct id to match users; Show warning and ask for confirmation before proceeding with the script",
+                "asset": {}
+            },
+            {
+                "startDate": "2018,11,6",
+                "headline": "Finalise European Investment Bank Report",
+                "text": "Finalize EIB report. Include the PR #155."
+                ,
+                "asset": {}
+            },
+                        {
+                "startDate": "2018,11,30",
+                "headline": "User management + PAYG",
+                "text": "Special technical meetings"
+                ,
+                "asset": {}
+            }
+        ]
+    }
+}
