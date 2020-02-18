@@ -93,7 +93,7 @@ note: beta (meat + usable prototype): reporting, download, profiles, data import
 http://ibat.ibat_staging.linode.unep-wcmc.org
 
 ## post beta plan
-<!-- .slide: data-background="wcmc-3.jpg" -->
+<!-- .slide: data-background="./generic_assets/wcmc-3.jpg" -->
 - Data filters reworks on the backend, per consultation
 - PS6 connecting design and implementation
 - FW design
@@ -103,7 +103,7 @@ http://ibat.ibat_staging.linode.unep-wcmc.org
 - Country profile
 
 ## post beta plan
-<!-- .slide: data-background="wcmc-2.jpg" -->
+<!-- .slide: data-background="./generic_assets/wcmc-2.jpg" -->
 - Freshwater report (Sprint 10, 11)
 - EIB report (Sprint 11, 12, 13)
 - Custom report (Sprint 12, 13)
@@ -113,14 +113,14 @@ http://ibat.ibat_staging.linode.unep-wcmc.org
 - Testing (Final sprint - 2 weeks)
 
 ## Dates
-<!-- .slide: data-background="wcmc-4.jpg" -->
+<!-- .slide: data-background="./generic_assets/wcmc-4.jpg" -->
 - Launch date: 25 Oct
 - user acceptance test: 2 week ahead of time
 - around the same time as UAT, have a final show-and-tell
 
 
 ## thank you
-<!-- .slide: data-background="wcmc-1.jpg" -->
+<!-- .slide: data-background="./generic_assets/wcmc-1.jpg" -->
 
 
 ## post alpha plan

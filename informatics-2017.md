@@ -169,7 +169,7 @@ note:
 2. mobile first design. 
 
 ## link
-<img style='height:auto;width:100%' src='qr-knowledge.png'></img>
+<img style='height:auto;width:100%' src='./generic_assets/qr-knowledge.png'></img>
 - <a href='https://yichuans.github.io/wh-knowledge-lab/' target='_blank'>Knowledge Laboratory</a>
 note: link knowledge lab
 

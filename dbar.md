@@ -53,27 +53,27 @@ note: group exercise and reporting back in 5 minutes <br>
 
 <!-- =========== ABOUT CENTRE -->
 # about us
-<!-- .slide: data-background="wcmc-0.jpg" -->
-<img src='logo.png' style='width:30%;border:none;'> <br>
+<!-- .slide: data-background="./generic_assets/wcmc-0.jpg" -->
+<img src='./generic_assets/logo.png' style='width:30%;border:none;'> <br>
 United Nations Environment Programme <br>
 World Conservation Monitoring Centre <br>
 (UNEP-WCMC)<br>
 Note: 35 yrs +, Cambridge, 100+, biologist, computer scientist, economist, GIS professionals, programmers
 
 ### To put biodiversity at the heart of decision-making
-<!-- .slide: data-background="wcmc-1.jpg" -->
+<!-- .slide: data-background="./generic_assets/wcmc-1.jpg" -->
 Note: biodiversity arm of UN Environment, most to do biodiv conservation; question: what's biodiversity + answer; 
 
 ### Unlock the power of data
-<!-- .slide: data-background="wcmc-2.jpg" -->
+<!-- .slide: data-background="./generic_assets/wcmc-2.jpg" -->
 Note: driven by data, maintain multiple global databases (e.g. ocean data viewer, WH, species trade); analysis/make sense; modelling analytical 
 
 ### The strength of many
-<!-- .slide: data-background="wcmc-3.jpg" -->
+<!-- .slide: data-background="./generic_assets/wcmc-3.jpg" -->
 Note: coordination: world wide partners, international, national research, private, NGOs and foundations
 
 ### science and policy interface
-<!-- .slide: data-background="wcmc-4.jpg" -->
+<!-- .slide: data-background="./generic_assets/wcmc-4.jpg" -->
 Note: closely with multilateral conventions; measure our impact, not just by how good we do science, but to make sure change for a better conservation outcome
 
 
@@ -95,11 +95,11 @@ Note: question: what is it we do - well...
 <!-- .slide: data-background="white" -->
 
 ### The process
-<img src='gca.png' style='border:none;'>
-<!-- ![the process](gca.png) -->
+<img src='./generic_assets/gca.png' style='border:none;'>
+<!-- ![the process](./generic_assets/gca.png) -->
 
 ### World Database on Protected Areas
-<!-- .slide: data-background="pp.png" -->
+<!-- .slide: data-background="./generic_assets/pp.png" -->
 <a target='_blank' href='http://www.protectedplanet.net'>protected planet</a>
 <!-- only way to allow new page -->
 Note: much of the evaluation we do rely on it. DEMO
@@ -122,20 +122,20 @@ Note: often slow to react, often too late
 Example: <a target='_blank' href='http://www.worldheritageoutlook.iucn.org/search-sites/-/wdpaid/en/2571'>The Great Barrier Reef</a>
 Note: IUCN initaitive to pro-active, identify issues before major, effective mitigation measures
 
-<!-- .slide: data-background-image="who.jpg" -->
+<!-- .slide: data-background-image="./generic_assets/who.jpg" -->
 Note: mobilise voluntary expert groups across the world, impartial assessment conservation outlook, every five years to see trend
 
 ### monitoring forest loss
 <a target='_blank' href='http://www.globalforestwatch.org/map/'>Global Forest Watch</a>
 
-<!-- .slide: data-background-image="10902.png" -->
+<!-- .slide: data-background-image="./generic_assets/10902.png" -->
 Note: make use of 30m global forest loss data
 
 ### remote sensing
-<!-- .slide: data-background-image="rs.gif" -->
+<!-- .slide: data-background-image="./generic_assets/rs.gif" -->
 Note: powerful, cost efficient way for large scale monitoring
 
-<!-- .slide: data-background-image="l8_okavango.gif" -->
+<!-- .slide: data-background-image="./generic_assets/l8_okavango.gif" -->
 Note: okavango delta, landsat 8, 30 meter resolution
 
 <!-- <iframe  width="1080" height="700" data-src="https://earthengine.google.com/iframes/timelapse_player_embed.html#v=22.16343,113.56346,11.601,latLng&t=2.43" frameborder="0"></iframe> -->
@@ -145,21 +145,21 @@ more later: data availability and computation power available
 
 <!--==== upstream -->
 ## 3. Policy, Guidance and Research
-<!-- .slide: data-background="white" -->
+<!-- .slide: data-background="./generic_assets/white" -->
 
-<!-- .slide: data-background="carto-0.png" -->
+<!-- .slide: data-background="./generic_assets/carto-0.png" -->
 Note: the WH convention is not without its problems; one of which is the huge divide geographically and politically
 
-<!-- .slide: data-background-image="carto.png" -->
+<!-- .slide: data-background-image="./generic_assets/carto.png" -->
 Note: cartogram by number of sites
 
 ### best practices guidance documents
 Note: reports etc
 
 ### thematic studies
-<img data-src='tb.png' style='border:none;width:30%'>
-<img data-src='mn.png' style='border:none;width:30%'>
-<img data-src='sc.png' style='border:none;width:30%'>
+<img data-src='./generic_assets/tb.png' style='border:none;width:30%'>
+<img data-src='./generic_assets/mn.png' style='border:none;width:30%'>
+<img data-src='./generic_assets/sc.png' style='border:none;width:30%'>
 Note: terrestrial biodiv, marine WH, benefits study, published in Science
 
 <i class="fa fa-coffee fa-5x"></i>

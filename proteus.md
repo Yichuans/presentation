@@ -86,7 +86,7 @@ note: alpha: user journey; UX/UI design; database architecture; prototyping main
 note: beta (meat + usable prototype): reporting, download, profiles, data import, migration from old system, unit testing, integration testing, user acceptance testing
 
 ## thank you
-<!-- .slide: data-background="wcmc-2.jpg" -->
+<!-- .slide: data-background="./generic_assets/wcmc-2.jpg" -->
 
 ## IBAT 3.0 <span style="text-transform:lowercase;font-family:'Times New Roman', Times, serif">α</span>
 <!-- .slide: data-background="white" -->
