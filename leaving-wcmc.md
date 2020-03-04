@@ -83,7 +83,7 @@ There are a lot of things we all agree that are great, collaboration, streamlini
 <!-- .slide: data-background-iframe="./krakow_assets/cp.html" -->
 doing things the tech way
 
-<iframe width="900" height="500" src="https://www.youtube.com/embed/BOLWQs-YXu4?rel=0;autoplay=1&mute=1&controls=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="900" height="500" data-src="https://www.youtube.com/embed/BOLWQs-YXu4?rel=0&autoplay=1&mute=1&controls=0" frameborder="0" allowfullscreen></iframe>
 note: Example of how a complex project can be done. A group of developers coding is no different to collaboratively working on a number of documents - track changes with multiple comments, iterations and revisions, my version vs your version, his updated version without considering my comments. Same headaches but magnified 100 times.
 Address social element of work - collaboration, commitment and acknowledgement - the best idea wins and is basically a meritocracy. 
 A few other things: a) Users are ultimate judge of your products. b) the best design is there is no design - good design should be self-evident and requires no instructions or user manuals. c) engineer's mindset, open, free access, explicit collaboration; source code management is key to produceability, repeatability and sharing, advocate for any coding scientists
@@ -105,7 +105,7 @@ note: our time trapped in our mandate - keeping it up to date. Struggling to fun
 
 ## Business and IBAT
 
-<iframe width="900" height="500" src="https://www.youtube.com/embed/YnpngcuoUDk?rel=0;autoplay=1&mute=1&controls=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="900" height="500" data-src="https://www.youtube.com/embed/YnpngcuoUDk?rel=0&autoplay=1&mute=1&controls=0" frameborder="0" allowfullscreen></iframe>
 note: very fortunate to have had the experience of working with business and the IBAT team. I learned a great deal from it. The truth is that businesses have huge power, their interest reflect the interest of the our society y. Great admiration for the work of the business programme - not just serving the needs of business partners, but source of sustainable income but also great leverage power. I story to share - from an Established conservationist, her greatest moment in conservation is persuade not to spend money setting up philanthropic foundations but use the money to improve their supply chain. I think IBAT is a great example of how business could be part of the solution by creating a funding mechanism for databases which everyone needs but nobody wants to pay for it, but also get the informed conservation decisions out there in the field. Can be done differently - with excitement I watch this space and I think lots of great things are yet to come.
 
 
