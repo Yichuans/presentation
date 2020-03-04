@@ -70,7 +70,7 @@ shift my focus to tech. with the time saved, I taught myself programming for the
 <h2>I built websites</h2>
 <p>to illustrate the utility of using the web as a means to communicate otherwise text heavy messages</p>
 </div>
-<!-- .slide: data-background-iframe="http://world-heritage-analyses.iucn.org/" data-background-interactive -->
+<!-- .slide: data-background-iframe="https://world-heritage-analyses.iucn.org" data-background-interactive -->
 note: where I started - empowering experience - 1) sense of being a maker of things - portfolio to show, in this case easier to visualise work easily 2) usefulness aside, they are interesting 3) enable others and empower others. E.g. priority, datasheets
 
 ### a different perspective
