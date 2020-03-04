@@ -75,7 +75,7 @@ note: where I started - empowering experience - 1) sense of being a maker of thi
 
 ### a different perspective
 reinventing the obvious
-<!-- .slide: data-background-video-loop="true" data-background-video="/leaving-wcmc-assets/perspective.mov" data-background-size="contain" -->
+<!-- .slide: data-background-video-loop="true" data-background-video="./leaving-wcmc-assets/perspective.mov" data-background-size="contain" -->
 note: I started to attract attention, deliver information in a way that's a bit unconventional, more interactive and engaging, easier to digest and gain a better retention rate. It is also well-known to disrupt and re-invent existing practices through creative destruction.
 There are a lot of things we all agree that are great, collaboration, streamlining workflow and process to follow - at the same time, we think they are challenging to do, too many coordination: too complex, adoption will be low; too simple, no utility - therefore worth doing but won't get there. Technology offers an alternative and can disrupt.
 
