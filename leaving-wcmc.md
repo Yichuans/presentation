@@ -104,18 +104,27 @@ note: our time trapped in our mandate - keeping it up to date. Struggling to fun
 
 
 ## Business and IBAT
-note: the truth is that businesses have huge power, yes they are driven by profit but not necessarily evil, their interest reflect the interest of the our society otherwise they would have gone bust already. Great admiration for the work of the business programme - not just serving the needs of business partners, but source of sustainable income but also great leverage power. Established conservationist, persuade not to spend money setting up philanthropic foundations but use the money to improve their supply chain. I think IBAT is a great example of how business could be part of the solution by creating a funding mechanism for databases which everyone needs but nobody wants to pay for it, but also get the informed conservation decisions out there in the field.
+
+<iframe width="900" height="500" src="https://www.youtube.com/embed/YnpngcuoUDk?rel=0;autoplay=1&mute=1&controls=0" frameborder="0" allowfullscreen></iframe>
+note: very fortunate to have had the experience of working with business and the IBAT team. I learned a great deal from it. The truth is that businesses have huge power, their interest reflect the interest of the our society y. Great admiration for the work of the business programme - not just serving the needs of business partners, but source of sustainable income but also great leverage power. I story to share - from an Established conservationist, her greatest moment in conservation is persuade not to spend money setting up philanthropic foundations but use the money to improve their supply chain. I think IBAT is a great example of how business could be part of the solution by creating a funding mechanism for databases which everyone needs but nobody wants to pay for it, but also get the informed conservation decisions out there in the field. Can be done differently - with excitement I watch this space and I think lots of great things are yet to come.
 
 
-## what's next
+## what next?
 
 <img data-src='./leaving-wcmc-assets/ci.png' style='border:none;width:65%'>
-note: I'm going to the field - thematically, blue carbon, wetland, species conservation and protected areas, projects in China. The views from the other end of the spectrum, learning new skills outside of my comfort zone, everything about working in China, 
-Having a brief taste of scientific research, policy, tech and hopefully on the ground, looking at if there is a way that creates win-wins for nature, for the stakeholders, and for practitioners in the field, provide opportunities attract talents and retain talents, to empower them, amplify interesting and fulfiling career.
+note: I'm going to the field - thematically, blue carbon, wetland, species conservation and protected areas, projects in China. The views from the other end of the spectrum, learning new skills outside of my comfort zone, everything about working in China.
+
+### win, win, win
+<!-- .slide: data-background="./leaving-wcmc-assets/social-enterprise.jpg" data-background-opacity="0.1" -->
+- Save the natural world
+- Generate operational surplus
+- Create fantastic jobs
+note: Having had a brief taste of scientific research, policy, tech and hopefully on the ground, much longer term, idealistic, looking at if there is a way that creates lots of wins. For nature (Mission statement), for the stakeholders (generating profits), and for practitioners (provide ample opportunities attract and retain talents, to empower them, amplify interesting and ample fulfilling career).
 
 
-## Almost there...
+## Last one...
 <img data-src="./leaving-wcmc-assets/balance.jpg" style='border:none;width:50%'>
+note: Jonty shared this before and i cannot agree more. One of the many things I learned from Naomi - everyone needs that head space to function. Physical wellbeing and psychological wellbeing depend on it. Don't drive yourself too hard, slow down and there is more than just work. I think life is a marathon and there is no point in sprinting..
 
 
 ## questions
